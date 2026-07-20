@@ -1,0 +1,6 @@
+Copy these files into this folder before you run main.py:
+
+1. cms_hospital_general_information.csv
+2. Blue_Distinction_Spine_Surgery.pdf
+
+The program also accepts Blue_Distinction_Spine_Surgery.pdf.pdf.

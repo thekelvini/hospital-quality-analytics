@@ -1,0 +1,487 @@
+BCBS_Hospital_Name,BCBS_State,BCBS_Designation,BCBS_Page,BCBS_Source_Row,BCBS_Normalized_Name
+Providence Alaska Medical Center,AK,BDC,3,Providence Alaska Medical Center | 3200 Providence Dr | Anchorage | AK | 99508 | BDC | No | Hospital,PROVIDENCE ALASKA MED CTR
+Athens Limestone Hospital,AL,BDC+,3,Athens Limestone Hospital | 700 W Market St | Athens | AL | 35611 | BDC+ | No | Hospital,ATHENS LIMESTONE HOSPITAL
+Jack Hughston Memorial Hospital,AL,BDC+,3,Jack Hughston Memorial Hospital | 4401 River Chase Dr | Phenix City | AL | 36867 | BDC+ | Yes | Hospital,JACK HUGHSTON MEMORIAL HOSPITAL
+Springhill Memorial Hospital,AL,BDC+,3,Springhill Memorial Hospital | 3719 Dauphin St | Mobile | AL | 36608 | BDC+ | Yes | Hospital,SPRINGHILL MEMORIAL HOSPITAL
+Uab Hospital,AL,BDC,3,Uab Hospital | 619 19Th St S | Birmingham | AL | 35249 | BDC | No | Hospital,UAB HOSPITAL
+Uab St Vincents Birmingham,AL,BDC+,3,Uab St Vincents Birmingham | 810 Saint Vincents Dr | Birmingham | AL | 35205 | BDC+ | No | Hospital,UAB ST VINCENTS BIRMINGHAM
+USA Providence Hospital,AL,BDC+,3,USA Providence Hospital | 6801 Airport Blvd | Mobile | AL | 36608 | BDC+ | No | Hospital,USA PROVIDENCE HOSPITAL
+Arkansas Surgical Hospital LLC,AR,BDC+,3,Arkansas Surgical Hospital LLC | 5201 Northshore Dr | North Little Rock | AR | 72118 | BDC+ | Yes | Hospital,ARKANSAS SURGICAL HOSPITAL LLC
+Baptist Health Medical Center Lr,AR,BDC+,3,Baptist Health Medical Center Lr | 9601 Baptist Health Dr | Little Rock | AR | 72205 | BDC+ | No | Hospital,BAPTIST HEALTH MED CTR LR
+Baptist Health Medical Center North Little Rock,AR,BDC+,3,Baptist Health Medical Center North Little Rock | 3333 Springhill Dr | North Little Rock | AR | 72117 | BDC+ | No | Hospital,BAPTIST HEALTH MED CTR NORTH LITTLE ROCK
+University of Arkansas for Medical Sciences,AR,BDC,3,University of Arkansas for Medical Sciences | 4301 W Markham St | Little Rock | AR | 72205 | BDC | Yes | Hospital,UNIVERSITY ARKANSAS FOR MEDICAL SCIENCES
+Washington Regional Medical Center,AR,BDC+,3,Washington Regional Medical Center | 3215 N Northhills Blvd | Fayetteville | AR | 72703 | BDC+ | Yes | Hospital,WASHINGTON REGIONAL MED CTR
+CHANDLER REGIONAL MEDICAL CENTER,AZ,BDC,3,CHANDLER REGIONAL MEDICAL CENTER | 1955 W Frye Rd | Chandler | AZ | 85224-6282 | BDC | No | Hospital,CHANDLER REGIONAL MED CTR
+HONORHEALTH DEER VALLEY MEDICAL CENTER,AZ,BDC,3,HONORHEALTH DEER VALLEY MEDICAL CENTER | 19829 N 27th Ave | Phoenix | AZ | 85027-4001 | BDC | No | Hospital,HONORHEALTH DEER VALLEY MED CTR
+HONORHEALTH JOHN C LINCOLN MEDICAL CENTER,AZ,BDC,3,HONORHEALTH JOHN C LINCOLN MEDICAL CENTER | 250 E Dunlap Ave | Phoenix | AZ | 85020-2825 | BDC | Yes | Hospital,HONORHEALTH JOHN C LINCOLN MED CTR
+HONORHEALTH SCOTTSDALE OSBORN MEDICAL CENTER,AZ,BDC,3,HONORHEALTH SCOTTSDALE OSBORN MEDICAL CENTER | 7400 E Osborn Rd | Scottsdale | AZ | 85251-6432 | BDC | Yes | Hospital,HONORHEALTH SCOTTSDALE OSBORN MED CTR
+HONORHEALTH SCOTTSDALE SHEA MEDICAL CENTER,AZ,BDC,3,HONORHEALTH SCOTTSDALE SHEA MEDICAL CENTER | 9003 E Shea Blvd | Scottsdale | AZ | 85260-6709 | BDC | No | Hospital,HONORHEALTH SCOTTSDALE SHEA MED CTR
+HONORHEALTH SCOTTSDALE THOMPSON PEAK MEDICAL CENTER,AZ,BDC,3,HONORHEALTH SCOTTSDALE THOMPSON PEAK MEDICAL CENTER | 7400 E Thompson Peak Pkwy | Scottsdale | AZ | 85255-4109 | BDC | Yes | Hospital,HONORHEALTH SCOTTSDALE THOMPSON PEAK MED CTR
+Tucson Medical Center,AZ,BDC+,4,Tucson Medical Center | 5301 E Grant Rd | Tucson | AZ | 85712 | BDC+ | No | Hospital,TUCSON MED CTR
+Adventist Health Bakersfield,CA,BDC+,4,Adventist Health Bakersfield | 2615 CHESTER AVE | BAKERSFIELD | CA | 93301 | BDC+ | Yes | Hospital,ADVENTIST HEALTH BAKERSFIELD
+Adventist Health Sierra Vista,CA,BDC,4,Adventist Health Sierra Vista | 1010 Murray Ave | San Luis Obispo | CA | 93405 | BDC | No | Hospital,ADVENTIST HEALTH SIERRA VISTA
+Adventist Health Sierra Vista,CA,BDC+,4,Adventist Health Sierra Vista | 1010 Murray Ave | San Luis Obispo | CA | 93405 | BDC+ | No | Hospital,ADVENTIST HEALTH SIERRA VISTA
+Adventist Health Sonora,CA,BDC+,4,Adventist Health Sonora | 1000 Greenley Rd | Sonora | CA | 95370-5200 | BDC+ | No | Hospital,ADVENTIST HEALTH SONORA
+Bakersfield Memorial Hospital,CA,BDC,4,Bakersfield Memorial Hospital | 420 34th St | Bakersfield | CA | 93301-2237 | BDC | No | Hospital,BAKERSFIELD MEMORIAL HOSPITAL
+Clovis Community Hospital,CA,BDC,4,Clovis Community Hospital | 2755 Herndon Ave | Clovis | CA | 93611-6800 | BDC | No | Hospital,CLOVIS COMMUNITY HOSPITAL
+Community Memorial Hosp of San Buenaventura,CA,BDC+,4,Community Memorial Hosp of San Buenaventura | 147 N Brent St | Ventura | CA | 93003 | BDC+ | Yes | Hospital,COMMUNITY MEMORIAL HOSP SAN BUENAVENTURA
+Desert Regional Med Ctr,CA,BDC,4,Desert Regional Med Ctr | 1150 N Indian Canyon Dr | Palm Springs | CA | 92262 | BDC | No | Hospital,DESERT REGIONAL MED CTR
+Enloe Medical Center Esplanade,CA,BDC,4,Enloe Medical Center Esplanade | 1531 Esplanade | Chico | CA | 95926 | BDC | No | Hospital,ENLOE MED CTR ESPLANADE
+French Hospital Medical Center,CA,BDC,4,French Hospital Medical Center | 1911 Johnson Ave | San Luis Obispo | CA | 93401 | BDC | Yes | Hospital,FRENCH HOSPITAL MED CTR
+Fresno Community Hospital And Medical Center,CA,BDC,4,Fresno Community Hospital And Medical Center | 15 E Audubon Dr | Fresno | CA | 93720-1542 | BDC | No | Hospital,FRESNO COMMUNITY HOSPITAL AND MED CTR
+Grossmont Hospital,CA,BDC,4,Grossmont Hospital | 5555 GROSSMONT CENTER DR | LA MESA | CA | 91942 | BDC | No | Hospital,GROSSMONT HOSPITAL
+Hoag Orthopedic Institute,CA,BDC,4,Hoag Orthopedic Institute | 16250 Sand Canyon Ave | Irvine | CA | 92618 | BDC | No | Hospital,HOAG ORTHOPEDIC INSTITUTE
+Hoag Orthopedic Institute,CA,BDC+,4,Hoag Orthopedic Institute | 16250 Sand Canyon Ave | Irvine | CA | 92618 | BDC+ | No | Hospital,HOAG ORTHOPEDIC INSTITUTE
+KAWEAH DELTA DISTRICT HOSP,CA,BDC+,4,KAWEAH DELTA DISTRICT HOSP | 400 W MINERAL KING AVE | VISALIA | CA | 93291 | BDC+ | Yes | Hospital,KAWEAH DELTA DISTRICT HOSP
+Loma Linda University Med Ctr,CA,BDC,4,Loma Linda University Med Ctr | 11234 Anderson St | Loma Linda | CA | 92354 | BDC | No | Hospital,LOMA LINDA UNIVERSITY MED CTR
+Long Beach Memorial Med Ctr,CA,BDC,4,Long Beach Memorial Med Ctr | 2801 Atlantic Ave | Long Beach | CA | 90806 | BDC | No | Hospital,LONG BEACH MEMORIAL MED CTR
+Long Beach Memorial Med Ctr,CA,BDC+,4,Long Beach Memorial Med Ctr | 2801 Atlantic Ave | Long Beach | CA | 90806 | BDC+ | No | Hospital,LONG BEACH MEMORIAL MED CTR
+Marian Regional Medical C,CA,BDC,4,Marian Regional Medical C | 1400 E Church St | Santa Maria | CA | 93454-5906 | BDC | Yes | Hospital,MARIAN REGIONAL MEDICAL C
+Mercy Hospital Bakersfield,CA,BDC,4,Mercy Hospital Bakersfield | 2215 Truxtun Ave | Bakersfield | CA | 93301 | BDC | Yes | Hospital,MERCY HOSPITAL BAKERSFIELD
+MERCY MEDICAL CENTER REDDING,CA,BDC,5,MERCY MEDICAL CENTER REDDING | 2175 ROSALINE AVE | REDDING | CA | 96001 | BDC | No | Hospital,MERCY MED CTR REDDING
+Orange Coast Mem Med Ctr,CA,BDC,5,Orange Coast Mem Med Ctr | 9920 Talbert Ave | Fountain Valley | CA | 92708 | BDC | Yes | Hospital,ORANGE COAST MEM MED CTR
+Providence Holy Cross Med Ctr,CA,BDC,5,Providence Holy Cross Med Ctr | 15031 RINALDI ST | MISSION HILLS | CA | 91345 | BDC | No | Hospital,PROVIDENCE HOLY CROSS MED CTR
+Providence Mission Hospital,CA,BDC,5,Providence Mission Hospital | 27700 Medical Center Rd | Mission Viejo | CA | 92691 | BDC | No | Hospital,PROVIDENCE MISSION HOSPITAL
+Providence Queen of the Valley Medical Center,CA,BDC,5,Providence Queen of the Valley Medical Center | 1000 Trancas St | Napa | CA | 94558 | BDC | No | Hospital,PROVIDENCE QUEEN VALLEY MED CTR
+Providence Saint Joseph Med Ctr,CA,BDC+,5,Providence Saint Joseph Med Ctr | 501 S Buena Vista St | Burbank | CA | 91505 | BDC+ | No | Hospital,PROVIDENCE ST JOSEPH MED CTR
+Providence Santa Rosa Memorial Hospital,CA,BDC+,5,Providence Santa Rosa Memorial Hospital | 1165 Montgomery Dr | Santa Rosa | CA | 95405 | BDC+ | No | Hospital,PROVIDENCE SANTA ROSA MEMORIAL HOSPITAL
+Providence St Joseph Hospital,CA,BDC+,5,Providence St Joseph Hospital | 1100 W Stewart Dr | Orange | CA | 92868 | BDC+ | No | Hospital,PROVIDENCE ST JOSEPH HOSPITAL
+Providence St Joseph Hospital Eureka,CA,BDC,5,Providence St Joseph Hospital Eureka | 2700 Dolbeer St | Eureka | CA | 95501-4736 | BDC | No | Hospital,PROVIDENCE ST JOSEPH HOSPITAL EUREKA
+Providence St Jude Medical Center,CA,BDC+,5,Providence St Jude Medical Center | 101 E Valencia Mesa Dr | Fullerton | CA | 92835 | BDC+ | No | Hospital,PROVIDENCE ST JUDE MED CTR
+Providence St Mary Medical Center,CA,BDC,5,Providence St Mary Medical Center | 18300 US Highway 18 | Apple Valley | CA | 92307 | BDC | No | Hospital,PROVIDENCE ST MARY MED CTR
+Ronald Reagan Ucla Med Ctr,CA,BDC,5,Ronald Reagan Ucla Med Ctr | 757 WESTWOOD PLZ | LOS ANGELES | CA | 90095 | BDC | No | Hospital,RONALD REAGAN UCLA MED CTR
+Santa Monica Ucla Med Ctr,CA,BDC+,5,Santa Monica Ucla Med Ctr | 1250 16Th St | Santa Monica | CA | 90404 | BDC+ | Yes | Hospital,SANTA MONICA UCLA MED CTR
+Sharp Memorial Hospital,CA,BDC,5,Sharp Memorial Hospital | 7901 FROST ST | SAN DIEGO | CA | 92123 | BDC | No | Hospital,SHARP MEMORIAL HOSPITAL
+Simi Valley Hosp and Health Care SVS,CA,BDC+,5,Simi Valley Hosp and Health Care SVS | 2975 Sycamore Dr | Simi Valley | CA | 93065 | BDC+ | Yes | Hospital,SIMI VALLEY HOSP AND HEALTH CARE SVS
+Southwest Healthcare Palmdale Regional Medical Center,CA,BDC,5,Southwest Healthcare Palmdale Regional Medical Center | 38600 Medical Center Dr | Palmdale | CA | 93551-4483 | BDC | No | Hospital,SOUTHWEST HEALTHCARE PALMDALE REGIONAL MED CTR
+Southwest Healthcare Palmdale Regional Medical Center,CA,BDC+,5,Southwest Healthcare Palmdale Regional Medical Center | 38600 Medical Center Dr | Palmdale | CA | 93551-4483 | BDC+ | No | Hospital,SOUTHWEST HEALTHCARE PALMDALE REGIONAL MED CTR
+St Johns Regional Medical Center,CA,BDC,5,St Johns Regional Medical Center | 1600 N Rose Ave | Oxnard | CA | 93030-3722 | BDC | No | Hospital,ST JOHNS REGIONAL MED CTR
+St Josephs Medical Center,CA,BDC,5,St Josephs Medical Center | 1800 N California St | Stockton | CA | 95204 | BDC | No | Hospital,ST JOSEPHS MED CTR
+St Josephs Medical Center,CA,BDC+,6,St Josephs Medical Center | 1800 N California St | Stockton | CA | 95204 | BDC+ | No | Hospital,ST JOSEPHS MED CTR
+Stanford Health Care,CA,BDC,6,Stanford Health Care | 300 Pasteur Dr | Stanford | CA | 94305 | BDC | No | Hospital,STANFORD HEALTH CARE
+Stanford Health Care Tri-Valley,CA,BDC,6,Stanford Health Care Tri-Valley | 5555 W Las Positas Blvd | Pleasanton | CA | 94588 | BDC | No | Hospital,STANFORD HEALTH CARE TRI VALLEY
+Sutter Maternity and Surgery Center of Santa Cruz,CA,BDC,6,Sutter Maternity and Surgery Center of Santa Cruz | 2900 Chanticleer Ave | Santa Cruz | CA | 95065 | BDC | No | Hospital,SUTTER MATERNITY AND SURGERY CENTER SANTA CRUZ
+Sutter Santa Rosa Regional Hospital,CA,BDC,6,Sutter Santa Rosa Regional Hospital | 30 Mark West Springs Rd | Santa Rosa | CA | 95403 | BDC | No | Hospital,SUTTER SANTA ROSA REGIONAL HOSPITAL
+Sutter Solano Med Ctr,CA,BDC,6,Sutter Solano Med Ctr | 300 Hospital Dr | Vallejo | CA | 94589 | BDC | No | Hospital,SUTTER SOLANO MED CTR
+Torrance Memorial Medical Center,CA,BDC+,6,Torrance Memorial Medical Center | 3330 LOMITA BLVD | TORRANCE | CA | 90505 | BDC+ | No | Hospital,TORRANCE MEMORIAL MED CTR
+Tri City Medical Ctr,CA,BDC,6,Tri City Medical Ctr | 4002 Vista Way | Oceanside | CA | 92056 | BDC | No | Hospital,TRI CITY MEDICAL CTR
+Ucsd La Jolla John Sally Thornton,CA,BDC,6,Ucsd La Jolla John Sally Thornton | 9300 CAMPUS POINT DR | LA JOLLA | CA | 92037 | BDC | No | Hospital,UCSD LA JOLLA JOHN SALLY THORNTON
+Ucsd Medical Ctr,CA,BDC,6,Ucsd Medical Ctr | 200 W Arbor Dr | San Diego | CA | 92103 | BDC | No | Hospital,UCSD MEDICAL CTR
+Ucsd Medical Ctr,CA,BDC+,6,Ucsd Medical Ctr | 200 W Arbor Dr | San Diego | CA | 92103 | BDC+ | No | Hospital,UCSD MEDICAL CTR
+Ucsf Medical Center,CA,BDC,6,Ucsf Medical Center | 505 Parnassus Ave | San Francisco | CA | 94143 | BDC | Yes | Hospital,UCSF MED CTR
+WOODLAND MEMORIAL HOSP,CA,BDC,6,WOODLAND MEMORIAL HOSP | 1325 COTTONWOOD ST | WOODLAND | CA | 95695 | BDC | No | Hospital,WOODLAND MEMORIAL HOSP
+WOODLAND MEMORIAL HOSP,CA,BDC+,6,WOODLAND MEMORIAL HOSP | 1325 COTTONWOOD ST | WOODLAND | CA | 95695 | BDC+ | No | Hospital,WOODLAND MEMORIAL HOSP
+Medical Center of The Rockies,CO,BDC,6,Medical Center of The Rockies | 2500 Rocky Mountain Ave | Loveland | CO | 80538-9004 | BDC | No | Hospital,MED CTR ROCKIES
+Memorial Health System,CO,BDC,6,Memorial Health System | 1400 E Boulder St | Colorado Springs | CO | 80909 | BDC | Yes | Hospital,MEMORIAL
+Poudre Valley Hospital,CO,BDC,6,Poudre Valley Hospital | 1024 S Lemay Ave | Fort Collins | CO | 80524-3929 | BDC | No | Hospital,POUDRE VALLEY HOSPITAL
+Rose Medical Ctr,CO,BDC+,6,Rose Medical Ctr | 4567 E 9th Ave | Denver | CO | 80220 | BDC+ | No | Hospital,ROSE MEDICAL CTR
+Swedish Medical Center,CO,BDC+,6,Swedish Medical Center | 501 E Hampden Ave | Englewood | CO | 80113 | BDC+ | No | Hospital,SWEDISH MED CTR
+Danbury Hospital,CT,BDC,6,Danbury Hospital | 24 Hospital Ave | Danbury | CT | 06810-6099 | BDC | No | Hospital,DANBURY HOSPITAL
+Greenwich Hospital,CT,BDC,6,Greenwich Hospital | 5 Perryridge Rd | Greenwich | CT | 06830 | BDC | Yes | Hospital,GREENWICH HOSPITAL
+Hartford Hospital,CT,BDC+,6,Hartford Hospital | 80 Seymour St | Hartford | CT | 06102-8000 | BDC+ | No | Hospital,HARTFORD HOSPITAL
+John Dempsey Hospital,CT,BDC+,7,John Dempsey Hospital | 263 Farmington Ave | Farmington | CT | 06030 | BDC+ | Yes | Hospital,JOHN DEMPSEY HOSPITAL
+Lawrence And Memorial Hospital,CT,BDC+,7,Lawrence And Memorial Hospital | 365 Montauk Ave | New London | CT | 06320-4700 | BDC+ | Yes | Hospital,LAWRENCE AND MEMORIAL HOSPITAL
+Midstate Medical Center,CT,BDC+,7,Midstate Medical Center | 435 Lewis Ave | Meriden | CT | 06451-2101 | BDC+ | No | Hospital,MIDSTATE MED CTR
+St Marys Hospital Corporation,CT,BDC,7,St Marys Hospital Corporation | 56 Franklin St | Waterbury | CT | 06706-1253 | BDC | No | Hospital,ST MARYS HOSPITAL CORPORATION
+Svmc Holdings,CT,BDC+,7,Svmc Holdings | 2800 Main St | Bridgeport | CT | 06606-4201 | BDC+ | No | Hospital,SVMC HOLDINGS
+William W. Backus Hospital,CT,BDC+,7,William W. Backus Hospital | 326 Washington St | Norwich | CT | 06360-2740 | BDC+ | No | Hospital,WILLIAM W BACKUS HOSPITAL
+Yale New Haven Hospital St Raphael Campus,CT,BDC,7,Yale New Haven Hospital St Raphael Campus | 1450 Chapel St | New Haven | CT | 06511 | BDC | Yes | Hospital,YALE NEW HAVEN HOSPITAL ST RAPHAEL CAMPUS
+Adventhealth Altamonte Springs,FL,BDC,7,Adventhealth Altamonte Springs | 601 E Altamonte Dr | Altamonte Springs | FL | 32701 | BDC | No | Hospital,ADVENTHEALTH ALTAMONTE SPRINGS
+Adventhealth Carrollwood,FL,BDC,7,Adventhealth Carrollwood | 7171 N Dale Mabry Hwy | Tampa | FL | 33614 | BDC | No | Hospital,ADVENTHEALTH CARROLLWOOD
+Adventhealth Fish Memorial,FL,BDC,7,Adventhealth Fish Memorial | 1055 Saxon Blvd | Orange City | FL | 32763 | BDC | No | Hospital,ADVENTHEALTH FISH MEMORIAL
+Adventhealth Winter Garden,FL,BDC,7,Adventhealth Winter Garden | 2000 FOWLER GROVE BLVD | Winter Garden | FL | 34787 | BDC | No | Hospital,ADVENTHEALTH WINTER GARDEN
+AdventHealth Apopka,FL,BDC,7,AdventHealth Apopka | 201 N Park Ave | Apopka | FL | 32703 | BDC | No | Hospital,ADVENTHEALTH APOPKA
+ADVENTHEALTH CELEBRATION,FL,BDC,7,ADVENTHEALTH CELEBRATION | 400 CELEBRATION PL | Celebration | FL | 34747 | BDC | No | Hospital,ADVENTHEALTH CELEBRATION
+Ascension Sacred Heart Hospital Emerald Coast,FL,BDC+,7,Ascension Sacred Heart Hospital Emerald Coast | 7800 US Highway 98 W | Miramar Beach | FL | 32550 | BDC+ | Yes | Hospital,ASCENSION SACRED HEART HOSPITAL EMERALD COAST
+Ascension Sacred Heart Pensacola,FL,BDC+,7,Ascension Sacred Heart Pensacola | 5151 N 9Th Ave | Pensacola | FL | 32504 | BDC+ | No | Hospital,ASCENSION SACRED HEART PENSACOLA
+Ascension St Vincents Medical Center Riverside,FL,BDC+,7,Ascension St Vincents Medical Center Riverside | 1 Shircliff Way | Jacksonville | FL | 32204 | BDC+ | Yes | Hospital,ASCENSION ST VINCENTS MED CTR RIVERSIDE
+Ascension St Vincents Medical Center Southside,FL,BDC+,7,Ascension St Vincents Medical Center Southside | 4201 Belfort Rd | Jacksonville | FL | 32216 | BDC+ | Yes | Hospital,ASCENSION ST VINCENTS MED CTR SOUTHSIDE
+Ascension St. Vincent's St. John's County,FL,BDC,7,Ascension St. Vincent's St. John's County | 205 TRINITY WAY | Saint Johns | FL | 32259 | BDC | Yes | Hospital,ASCENSION ST VINCENT S ST JOHN S COUNTY
+Boca Raton Regional Hospital Inc,FL,BDC+,7,Boca Raton Regional Hospital Inc | 800 Meadows Rd | Boca Raton | FL | 33486 | BDC+ | Yes | Hospital,BOCA RATON REGIONAL HOSPITAL INC
+Cleveland Clinic Florida Health System Nonprofit,FL,BDC+,7,Cleveland Clinic Florida Health System Nonprofit | 3100 Weston Rd | Weston | FL | 33331 | BDC+ | No | Hospital,CLEVELAND CLINIC FLORIDA NONPROFIT
+Cleveland Clinic Indian River Hospital,FL,BDC+,7,Cleveland Clinic Indian River Hospital | 1000 36Th St | Vero Beach | FL | 32960 | BDC+ | No | Hospital,CLEVELAND CLINIC INDIAN RIVER HOSPITAL
+Cleveland Clinic Tradition Hospital,FL,BDC,8,Cleveland Clinic Tradition Hospital | 10000 SW Innovation Way | Port Saint Lucie | FL | 34987 | BDC | No | Hospital,CLEVELAND CLINIC TRADITION HOSPITAL
+Delray Medical Center,FL,BDC,8,Delray Medical Center | 5352 Linton Blvd | Delray Beach | FL | 33484 | BDC | Yes | Hospital,DELRAY MED CTR
+Halifax Medical Center,FL,BDC,8,Halifax Medical Center | 303 N Clyde Morris Blvd | Daytona Beach | FL | 32114 | BDC | No | Hospital,HALIFAX MED CTR
+HCA Florida Blake Hospital,FL,BDC,8,HCA Florida Blake Hospital | 2020 59Th St W | Bradenton | FL | 34209 | BDC | Yes | Hospital,HCA FLORIDA BLAKE HOSPITAL
+HCA Florida Fawcett Hospital,FL,BDC,8,HCA Florida Fawcett Hospital | 21298 Olean Blvd | Port Charlotte | FL | 33952 | BDC | Yes | Hospital,HCA FLORIDA FAWCETT HOSPITAL
+HCA Florida Memorial Hospital,FL,BDC,8,HCA Florida Memorial Hospital | 3625 University Blvd S | Jacksonville | FL | 32216 | BDC | Yes | Hospital,HCA FLORIDA MEMORIAL HOSPITAL
+HCA Florida Palms West Hospital,FL,BDC+,8,HCA Florida Palms West Hospital | 13001 Southern Blvd | Loxahatchee | FL | 33470 | BDC+ | No | Hospital,HCA FLORIDA PALMS WEST HOSPITAL
+HCA FLORIDA KENDALL HOSPITAL,FL,BDC,8,HCA FLORIDA KENDALL HOSPITAL | 11750 SW 40TH ST | Miami | FL | 33175 | BDC | No | Hospital,HCA FLORIDA KENDALL HOSPITAL
+HCA FLORIDA NORTHWEST HOSPITAL,FL,BDC,8,HCA FLORIDA NORTHWEST HOSPITAL | 2801 N STATE ROAD 7 | Margate | FL | 33063 | BDC | No | Hospital,HCA FLORIDA NORTHWEST HOSPITAL
+HCA FLORIDA ORANGE PARK HOSPITAL,FL,BDC,8,HCA FLORIDA ORANGE PARK HOSPITAL | 2001 KINGSLEY AVE | Orange Park | FL | 32073 | BDC | No | Hospital,HCA FLORIDA ORANGE PARK HOSPITAL
+Lakewood Ranch Medical Center,FL,BDC,8,Lakewood Ranch Medical Center | 8330 Lakewood Ranch Blvd | Lakewood Ranch | FL | 34202 | BDC | No | Hospital,LAKEWOOD RANCH MED CTR
+Mayo Clinic Florida Hospital,FL,BDC+,8,Mayo Clinic Florida Hospital | 4500 San Pablo Rd S | Jacksonville | FL | 32224 | BDC+ | No | Hospital,MAYO CLINIC FLORIDA HOSPITAL
+Mount Sinai Medical Center,FL,BDC+,8,Mount Sinai Medical Center | 4300 ALTON RD | Miami Beach | FL | 33140 | BDC+ | No | Hospital,MOUNT SINAI MED CTR
+Orlando Health Central,FL,BDC,8,Orlando Health Central | 10000 W Colonial Dr | Ocoee | FL | 34761 | BDC | Yes | Hospital,ORLANDO HEALTH CENTRAL
+Sarasota Memorial Hospital,FL,BDC,8,Sarasota Memorial Hospital | 1700 S Tamiami Trl | Sarasota | FL | 34239 | BDC | No | Hospital,SARASOTA MEMORIAL HOSPITAL
+Shands and University of Florida Health Care Ntwk,FL,BDC+,8,Shands and University of Florida Health Care Ntwk | 1600 SW ARCHER RD | Gainesville | FL | 32610 | BDC+ | Yes | Hospital,SHANDS AND UNIVERSITY FLORIDA HEALTH CARE NTWK
+St Marys Medical Center,FL,BDC,8,St Marys Medical Center | 901 45th St | West Palm Beach | FL | 33407 | BDC | Yes | Hospital,ST MARYS MED CTR
+West Boca Medical Center,FL,BDC,8,West Boca Medical Center | 21644 STATE ROAD 7 | Boca Raton | FL | 33428 | BDC | No | Hospital,WEST BOCA MED CTR
+Coliseum Medical Center,GA,BDC+,9,Coliseum Medical Center | 350 Hospital Dr | Macon | GA | 31217-3838 | BDC+ | No | Hospital,COLISEUM MED CTR
+Macon Northside Hospital,GA,BDC+,9,Macon Northside Hospital | 400 Charter Blvd | Macon | GA | 31210-4831 | BDC+ | No | Hospital,MACON NORTHSIDE HOSPITAL
+Northside Hospital,GA,BDC,9,Northside Hospital | 1000 Johnson Ferry Rd | Atlanta | GA | 30342-1606 | BDC | No | Hospital,NORTHSIDE HOSPITAL
+Northside Hospital Cherokee,GA,BDC,9,Northside Hospital Cherokee | 450 Northside Cherokee Blvd | Canton | GA | 30115-8015 | BDC | No | Hospital,NORTHSIDE HOSPITAL CHEROKEE
+Northside Hospital Forsyth,GA,BDC,9,Northside Hospital Forsyth | 1200 Northside Forsyth Dr | Cumming | GA | 30041-7659 | BDC | No | Hospital,NORTHSIDE HOSPITAL FORSYTH
+Piedmont Fayette Hospital,GA,BDC,9,Piedmont Fayette Hospital | 1255 Highway 54 W | Fayetteville | GA | 30214-4526 | BDC | Yes | Hospital,PIEDMONT FAYETTE HOSPITAL
+Piedmont Henry Hospital,GA,BDC,9,Piedmont Henry Hospital | 1133 Eagles Landing Pkwy | Stockbridge | GA | 30281-5085 | BDC | Yes | Hospital,PIEDMONT HENRY HOSPITAL
+Piedmont Hospital,GA,BDC,9,Piedmont Hospital | 1968 Peachtree Rd Nw | Atlanta | GA | 30309-1281 | BDC | Yes | Hospital,PIEDMONT HOSPITAL
+Piedmont Rockdale Hospital,GA,BDC,9,Piedmont Rockdale Hospital | 1412 Milstead Ave Ne | Conyers | GA | 30012-3877 | BDC | Yes | Hospital,PIEDMONT ROCKDALE HOSPITAL
+Tift Regional Medical Center,GA,BDC,9,Tift Regional Medical Center | 901 18th St E | Tifton | GA | 31794-3648 | BDC | Yes | Hospital,TIFT REGIONAL MED CTR
+Kuakini Medicalctr,HI,BDC,9,Kuakini Medicalctr | 347 N Kuakini St | Honolulu | HI | 96817 | BDC | Yes | Hospital,KUAKINI MEDICALCTR
+Queen's Medical Center,HI,BDC,9,Queen's Medical Center | 1301 Punchbowl St | Honolulu | HI | 96813 | BDC | No | Hospital,QUEEN S MED CTR
+Iowa Methodist Medical Center,IA,BDC+,9,Iowa Methodist Medical Center | 1200 PLEASANT ST | DES MOINES | IA | 50309-1406 | BDC+ | No | Hospital,IOWA METHODIST MED CTR
+Mercy Medical Center,IA,BDC+,9,Mercy Medical Center | 701 10Th St SE | Cedar Rapids | IA | 52403-1251 | BDC+ | Yes | Hospital,MERCY MED CTR
+MercyOne Des Moines Medical Center,IA,BDC,9,MercyOne Des Moines Medical Center | 1111 6TH AVE | DES MOINES | IA | 50314-2613 | BDC | No | Hospital,MERCYONE DES MOINES MED CTR
+MercyOne North Iowa Medical Center,IA,BDC+,9,MercyOne North Iowa Medical Center | 1000 4Th St SW | Mason City | IA | 50401-2800 | BDC+ | No | Hospital,MERCYONE NORTH IOWA MED CTR
+Methodist West Hospital,IA,BDC,9,Methodist West Hospital | 1660 60TH ST | WEST DES MOINES | IA | 50266-7700 | BDC | Yes | Hospital,METHODIST WEST HOSPITAL
+University of Iowa Health Care,IA,BDC+,9,University of Iowa Health Care | 200 Hawkins Dr | Iowa City | IA | 52242-1009 | BDC+ | Yes | Hospital,UNIVERSITY IOWA HEALTH CARE
+University of Iowa Health Care Medical Center Hosp,IA,BDC+,9,University of Iowa Health Care Medical Center Hosp | 500 E MARKET ST | IOWA CITY | IA | 52245-2633 | BDC+ | Yes | Hospital,UNIVERSITY IOWA HEALTH CARE MED CTR HOSP
+Northwest Specialty Hospital,ID,BDC+,9,Northwest Specialty Hospital | 1593 E Polston Ave | Post Falls | ID | 83854-5326 | BDC+ | Yes | Hospital,NORTHWEST SPECIALTY HOSPITAL
+ST LUKES REGIONAL MEDICAL CENTER,ID,BDC,9,ST LUKES REGIONAL MEDICAL CENTER | 190 E Bannock St | Boise | ID | 83712-6241 | BDC | No | Hospital,ST LUKES REGIONAL MED CTR
+TREASURE VALLEY HOSPITAL,ID,BDC+,9,TREASURE VALLEY HOSPITAL | 8800 W Emerald St | Boise | ID | 83704-8205 | BDC+ | No | Hospital,TREASURE VALLEY HOSPITAL
+Advocate Christ Hosp Med Cntr,IL,BDC+,10,Advocate Christ Hosp Med Cntr | 4440 W 95th St | Oak Lawn | IL | 60453 | BDC+ | No | Hospital,ADVOCATE CHRIST HOSP MED CNTR
+ADVOCATE CONDELL MEDICAL CENTER,IL,BDC+,10,ADVOCATE CONDELL MEDICAL CENTER | 801 S Milwaukee Ave | Libertyville | IL | 60048 | BDC+ | No | Hospital,ADVOCATE CONDELL MED CTR
+ADVOCATE GOOD SAMARITAN HOSPITAL,IL,BDC+,10,ADVOCATE GOOD SAMARITAN HOSPITAL | 3815 Highland Ave | Downers Grove | IL | 60515 | BDC+ | No | Hospital,ADVOCATE GOOD SAMARITAN HOSPITAL
+ADVOCATE GOOD SHEPHERD HOSPITAL,IL,BDC+,10,ADVOCATE GOOD SHEPHERD HOSPITAL | 450 W Il Hwy 22 | Barrington | IL | 60010 | BDC+ | No | Hospital,ADVOCATE GOOD SHEPHERD HOSPITAL
+ADVOCATE ILLINOIS MASONIC MED CNT,IL,BDC,10,ADVOCATE ILLINOIS MASONIC MED CNT | 836 W Wellington Ave | Chicago | IL | 60657 | BDC | No | Hospital,ADVOCATE ILLINOIS MASONIC MED CNT
+ADVOCATE LUTHERAN GENERAL HOSP,IL,BDC+,10,ADVOCATE LUTHERAN GENERAL HOSP | 1775 Dempster St | Park Ridge | IL | 60068 | BDC+ | No | Hospital,ADVOCATE LUTHERAN GENERAL HOSP
+ADVOCATE SHERMAN HOSPITAL,IL,BDC+,10,ADVOCATE SHERMAN HOSPITAL | 1425 N Randall Rd | Elgin | IL | 60123 | BDC+ | No | Hospital,ADVOCATE SHERMAN HOSPITAL
+ADVOCATE SOUTH SUBURBAN HOSPITAL,IL,BDC+,10,ADVOCATE SOUTH SUBURBAN HOSPITAL | 17800 Kedzie Ave | Hazel Crest | IL | 60429 | BDC+ | No | Hospital,ADVOCATE SOUTH SUBURBAN HOSPITAL
+ALEXIAN BROTHERS MEDICAL CENTER,IL,BDC+,10,ALEXIAN BROTHERS MEDICAL CENTER | 800 Biesterfield Rd | Elk Grove Village | IL | 60007 | BDC+ | No | Hospital,ALEXIAN BROTHERS MED CTR
+Blessing Hospital,IL,BDC,10,Blessing Hospital | 1005 BROADWAY ST | QUINCY | IL | 62301-2834 | BDC | No | Hospital,BLESSING HOSPITAL
+Carle Foundation Hosp,IL,BDC,10,Carle Foundation Hosp | 611 W PARK ST | URBANA | IL | 61801-2500 | BDC | No | Hospital,CARLE FOUNDATION HOSP
+CARLE BROMENN MEDICAL CENTER,IL,BDC+,10,CARLE BROMENN MEDICAL CENTER | 1304 FRANKLIN AVE | NORMAL | IL | 61761-3558 | BDC+ | No | Hospital,CARLE BROMENN MED CTR
+CARLE HEALTH METHODIST HOSPITAL,IL,BDC,10,CARLE HEALTH METHODIST HOSPITAL | 221 NE Glen Oak Ave | Peoria | IL | 61636 | BDC | No | Hospital,CARLE HEALTH METHODIST HOSPITAL
+CENTRAL DUPAGE HOSPITAL,IL,BDC,10,CENTRAL DUPAGE HOSPITAL | 25 N WINFIELD RD | WINFIELD | IL | 60190-1379 | BDC | Yes | Hospital,CENTRAL DUPAGE HOSPITAL
+Copley Memorial Hospital,IL,BDC+,10,Copley Memorial Hospital | 2000 OGDEN AVE | AURORA | IL | 60504-7222 | BDC+ | No | Hospital,COPLEY MEMORIAL HOSPITAL
+EDWARD HOSPITAL,IL,BDC+,10,EDWARD HOSPITAL | 801 S Washington St | Naperville | IL | 60540-7430 | BDC+ | No | Hospital,EDWARD HOSPITAL
+Endeavor Health Elmhurst Hospital,IL,BDC+,10,Endeavor Health Elmhurst Hospital | 155 E Brush Hill Rd | Elmhurst | IL | 60126 | BDC+ | No | Hospital,ENDEAVOR HEALTH ELMHURST HOSPITAL
+INGALLS MEMORIAL HOSPITAL,IL,BDC+,10,INGALLS MEMORIAL HOSPITAL | 1 Ingalls Dr | Harvey | IL | 60426 | BDC+ | No | Hospital,INGALLS MEMORIAL HOSPITAL
+INSIGHT HOSPITAL MEDICAL CTR CHI,IL,BDC,10,INSIGHT HOSPITAL MEDICAL CTR CHI | 2525 S Michigan Ave | Chicago | IL | 60616 | BDC | No | Hospital,INSIGHT HOSPITAL MEDICAL CTR CHI
+Loyola University Medical Center,IL,BDC+,10,Loyola University Medical Center | 2160 S 1ST AVE | MAYWOOD | IL | 60153-3328 | BDC+ | No | Hospital,LOYOLA UNIVERSITY MED CTR
+Northshore Evanston Hospital,IL,BDC+,11,Northshore Evanston Hospital | 2650 RIDGE AVE | EVANSTON | IL | 60201-1718 | BDC+ | Yes | Hospital,NORTHSHORE EVANSTON HOSPITAL
+Northshore Skokie Hospital,IL,BDC,11,Northshore Skokie Hospital | 9600 Gross Point Rd | Skokie | IL | 60076 | BDC | No | Hospital,NORTHSHORE SKOKIE HOSPITAL
+NORTHWESTERN MEMORIAL HOSPITAL,IL,BDC,11,NORTHWESTERN MEMORIAL HOSPITAL | 251 E HURON | CHICAGO | IL | 60611-2908 | BDC | Yes | Hospital,NORTHWESTERN MEMORIAL HOSPITAL
+PALOS COMMUNITY HOSPITAL,IL,BDC+,11,PALOS COMMUNITY HOSPITAL | 12251 S 80Th Ave | Palos Heights | IL | 60463-1290 | BDC+ | No | Hospital,PALOS COMMUNITY HOSPITAL
+Presence St Marys Hospital,IL,BDC,11,Presence St Marys Hospital | 500 W Court St | Kankakee | IL | 60901 | BDC | Yes | Hospital,PRESENCE ST MARYS HOSPITAL
+PRESENCE ST JOSEPH HOSP ELGIN,IL,BDC+,11,PRESENCE ST JOSEPH HOSP ELGIN | 77 N Airlite St | Elgin | IL | 60123 | BDC+ | Yes | Hospital,PRESENCE ST JOSEPH HOSP ELGIN
+RIVERSIDE MEDICAL CENTER,IL,BDC,11,RIVERSIDE MEDICAL CENTER | 350 N Wall St | Kankakee | IL | 60901-2901 | BDC | No | Hospital,RIVERSIDE MED CTR
+RUSH UNIVERSITY MEDICAL CENTER,IL,BDC+,11,RUSH UNIVERSITY MEDICAL CENTER | 1653 W Congress Pkwy | Chicago | IL | 60612-3833 | BDC+ | No | Hospital,RUSH UNIVERSITY MED CTR
+Saint Anthony Medical Center,IL,BDC,11,Saint Anthony Medical Center | 5666 E STATE ST | ROCKFORD | IL | 61108-2425 | BDC | No | Hospital,ST ANTHONY MED CTR
+St Alexius Medical Center,IL,BDC+,11,St Alexius Medical Center | 1555 Barrington Rd | Hoffman Estates | IL | 60169 | BDC+ | No | Hospital,ST ALEXIUS MED CTR
+SWEDISH COVENANT HOSPITAL,IL,BDC,11,SWEDISH COVENANT HOSPITAL | 5145 N California Ave | Chicago | IL | 60625 | BDC | No | Hospital,SWEDISH COVENANT HOSPITAL
+UCM ADVENTHEALTH HINSDALE,IL,BDC,11,UCM ADVENTHEALTH HINSDALE | 120 N Oak St | Hinsdale | IL | 60521 | BDC | No | Hospital,UCM ADVENTHEALTH HINSDALE
+UNIVERSITY OF CHICAGO MEDICAL CEN,IL,BDC,11,UNIVERSITY OF CHICAGO MEDICAL CEN | 5841 S MARYLAND AVE | CHICAGO | IL | 60637-1447 | BDC | Yes | Hospital,UNIVERSITY CHICAGO MEDICAL CEN
+Ascension St Vincent Hospital,IN,BDC,11,Ascension St Vincent Hospital | 2001 W 86th St | Indianapolis | IN | 46260-1902 | BDC | No | Hospital,ASCENSION ST VINCENT HOSPITAL
+Ascension St Vincent Kokomo,IN,BDC,11,Ascension St Vincent Kokomo | 1907 W Sycamore St | Kokomo | IN | 46901-5148 | BDC | No | Hospital,ASCENSION ST VINCENT KOKOMO
+Baptist Health Floyd,IN,BDC,11,Baptist Health Floyd | 1850 State St | New Albany | IN | 47150-4990 | BDC | No | Hospital,BAPTIST HEALTH FLOYD
+Community Hospital,IN,BDC+,12,Community Hospital | 901 Macarthur Blvd | Munster | IN | 46321-2901 | BDC+ | No | Hospital,COMMUNITY HOSPITAL
+Community Hospital of Anderson,IN,BDC,12,Community Hospital of Anderson | 1515 N Madison Ave | Anderson | IN | 46011-3453 | BDC | No | Hospital,COMMUNITY HOSPITAL ANDERSON
+Community Hospital South,IN,BDC,12,Community Hospital South | 1402 E County Line Rd | Indianapolis | IN | 46227-0963 | BDC | Yes | Hospital,COMMUNITY HOSPITAL SOUTH
+Community Hospitals North,IN,BDC,12,Community Hospitals North | 7150 Clearvista Dr | Indianapolis | IN | 46256-1695 | BDC | Yes | Hospital,COMMUNITY HOSPITALS NORTH
+Dupont Hospital,IN,BDC,12,Dupont Hospital | 2520 E Dupont Rd | Fort Wayne | IN | 46825-1675 | BDC | No | Hospital,DUPONT HOSPITAL
+Franciscan Health Indianapolis,IN,BDC+,12,Franciscan Health Indianapolis | 8111 S Emerson Ave | Indianapolis | IN | 46237-8601 | BDC+ | No | Hospital,FRANCISCAN HEALTH INDIANAPOLIS
+Franciscan Health Indianapolis Orthopedic Hospital,IN,BDC,12,Franciscan Health Indianapolis Orthopedic Hospital | 10777 Illinois St | Carmel | IN | 46032-8972 | BDC | No | Hospital,FRANCISCAN HEALTH INDIANAPOLIS ORTHOPEDIC HOSPITAL
+Franciscan Health Lafayette,IN,BDC+,12,Franciscan Health Lafayette | 1701 S Creasy Ln | La Fayette | IN | 47905 | BDC+ | No | Hospital,FRANCISCAN HEALTH LAFAYETTE
+Franciscan Health Michigan City,IN,BDC,12,Franciscan Health Michigan City | 3500 Franciscan Way | Michigan City | IN | 46360-0033 | BDC | Yes | Hospital,FRANCISCAN HEALTH MICHIGAN CITY
+Indiana University Health Arnett Hospital,IN,BDC,12,Indiana University Health Arnett Hospital | 5165 McCarty Ln | La Fayette | IN | 47905 | BDC | Yes | Hospital,INDIANA UNIVERSITY HEALTH ARNETT HOSPITAL
+Indiana University Health Ball Memorial Hospital,IN,BDC,12,Indiana University Health Ball Memorial Hospital | 2401 W University Ave | Muncie | IN | 47303-3428 | BDC | Yes | Hospital,INDIANA UNIVERSITY HEALTH BALL MEMORIAL HOSPITAL
+Indiana University Health Bloomington Hospital,IN,BDC,12,Indiana University Health Bloomington Hospital | 2651 E Discovery Pkwy | Bloomington | IN | 47408-9059 | BDC | Yes | Hospital,INDIANA UNIVERSITY HEALTH BLOOMINGTON HOSPITAL
+Indiana University Health North Hospital,IN,BDC,12,Indiana University Health North Hospital | 11700 N Meridian St | Carmel | IN | 46032-4656 | BDC | Yes | Hospital,INDIANA UNIVERSITY HEALTH NORTH HOSPITAL
+Lutheran Hospital of Indiana,IN,BDC+,12,Lutheran Hospital of Indiana | 7950 W Jefferson Blvd | Fort Wayne | IN | 46804-4140 | BDC+ | No | Hospital,LUTHERAN HOSPITAL INDIANA
+Orthoindy Hospital,IN,BDC,12,Orthoindy Hospital | 1260 Innovation Pkwy | Greenwood | IN | 46143-3604 | BDC | Yes | Hospital,ORTHOINDY HOSPITAL
+Orthoindy Hospital,IN,BDC+,13,Orthoindy Hospital | 8400 Northwest Blvd | Indianapolis | IN | 46278-1381 | BDC+ | Yes | Hospital,ORTHOINDY HOSPITAL
+Schneck Medical Center,IN,BDC,13,Schneck Medical Center | 411 W Tipton St | Seymour | IN | 47274-2363 | BDC | Yes | Hospital,SCHNECK MED CTR
+St Mary Medical Center Hobart,IN,BDC,13,St Mary Medical Center Hobart | 1500 S Lake Park Ave | Hobart | IN | 46342-6638 | BDC | No | Hospital,ST MARY MED CTR HOBART
+St Vincent Carmel Hospital,IN,BDC,13,St Vincent Carmel Hospital | 13500 N Meridian St | Carmel | IN | 46032-1456 | BDC | Yes | Hospital,ST VINCENT CARMEL HOSPITAL
+The Orthopaedic Hospital,IN,BDC+,13,The Orthopaedic Hospital | 7952 W Jefferson Blvd | Fort Wayne | IN | 46804-4140 | BDC+ | No | Hospital,ORTHOPAEDIC HOSPITAL
+Labette County Medical Center Cah,KS,BDC,13,Labette County Medical Center Cah | 1902 S US Highway 59 | Parsons | KS | 67357 | BDC | No | Hospital,LABETTE COUNTY MED CTR CAH
+NMC Health,KS,BDC,13,NMC Health | 600 Medical Center Dr | Newton | KS | 67114 | BDC | No | Hospital,NMC HEALTH
+SALINA REGIONAL HEALTH CENTER,KS,BDC+,13,SALINA REGIONAL HEALTH CENTER | 400 S Santa Fe Ave | Salina | KS | 67401 | BDC+ | Yes | Hospital,SALINA REGIONAL HEALTH CENTER
+University of Kansas Health System St Francis Hptl,KS,BDC,13,University of Kansas Health System St Francis Hptl | 1700 SW 7th St | Topeka | KS | 66606 | BDC | No | Hospital,UNIVERSITY KANSAS ST FRANCIS HPTL
+Baptist Health Lexington,KY,BDC,13,Baptist Health Lexington | 1740 Nicholasville Rd | Lexington | KY | 40503-1431 | BDC | Yes | Hospital,BAPTIST HEALTH LEXINGTON
+Norton Audubon Hospital,KY,BDC,13,Norton Audubon Hospital | 1 Audubon Plaza Dr | Louisville | KY | 40217-1318 | BDC | Yes | Hospital,NORTON AUDUBON HOSPITAL
+Norton Brownsboro Hospital,KY,BDC,13,Norton Brownsboro Hospital | 4960 Norton Healthcare Blvd | Louisville | KY | 40241-2831 | BDC | Yes | Hospital,NORTON BROWNSBORO HOSPITAL
+Norton Womens And Childrens Hospital,KY,BDC,13,Norton Womens And Childrens Hospital | 4001 Dutchmans Ln | Louisville | KY | 40207-4714 | BDC | Yes | Hospital,NORTON WOMENS AND CHILDRENS HOSPITAL
+Saint Joseph Health System,KY,BDC+,13,Saint Joseph Health System | 1 Saint Joseph Dr | Lexington | KY | 40504-3742 | BDC+ | No | Hospital,ST JOSEPH
+Saint Joseph London,KY,BDC,13,Saint Joseph London | 1001 Saint Joseph Ln | London | KY | 40741-8345 | BDC | Yes | Hospital,ST JOSEPH LONDON
+St Elizabeth Healthcare,KY,BDC,13,St Elizabeth Healthcare | 4900 Houston Rd | Florence | KY | 41042-4824 | BDC | Yes | Hospital,ST ELIZABETH HEALTHCARE
+Avala,LA,BDC+,13,Avala | 67252 Industry Ln | Covington | LA | 70433 | BDC+ | No | Hospital,AVALA
+Baton Rouge General Medical Center,LA,BDC,13,Baton Rouge General Medical Center | 8585 Picardy Avenue | Baton Rouge | LA | 70809 | BDC | No | Hospital,BATON ROUGE GENERAL MED CTR
+Lafayette General Medical Center,LA,BDC,13,Lafayette General Medical Center | 1214 Coolidge Boulevard | Lafayette | LA | 70503 | BDC | No | Hospital,LAFAYETTE GENERAL MED CTR
+Lafayette Surgical Specialty Hospital,LA,BDC+,14,Lafayette Surgical Specialty Hospital | 1101 Kaliste Saloom Rd | Lafayette | LA | 70508 | BDC+ | No | Hospital,LAFAYETTE SURGICAL SPECIALTY HOSPITAL
+Ochsner Medical Center,LA,BDC,14,Ochsner Medical Center | 1221 South Clearview Parkway | Jefferson | LA | 70121 | BDC | No | Hospital,OCHSNER MED CTR
+Our Lady of Lourdes Regional Medical Center,LA,BDC,14,Our Lady of Lourdes Regional Medical Center | 4801 Ambassador Caffery Parkway | Lafayette | LA | 70508 | BDC | Yes | Hospital,OUR LADY LOURDES REGIONAL MED CTR
+Park Place Surgical Hospital,LA,BDC+,14,Park Place Surgical Hospital | 4811 Ambassador Caffery Pkwy | Lafayette | LA | 70508 | BDC+ | No | Hospital,PARK PLACE SURGICAL HOSPITAL
+Thibodaux Regional Health System,LA,BDC+,14,Thibodaux Regional Health System | 602 North Acadia Road | Thibodaux | LA | 70301 | BDC+ | Yes | Hospital,THIBODAUX REGIONAL
+Willis-Knighton Bossier Health Center,LA,BDC,14,Willis-Knighton Bossier Health Center | 2400 Hospital Drive | Bossier City | LA | 71111 | BDC | No | Hospital,WILLIS KNIGHTON BOSSIER HEALTH CENTER
+Boston Medical Center,MA,BDC,14,Boston Medical Center | One Boston Medical Center Place | Boston | MA | 2118 | BDC | No | Hospital,BOSTON MED CTR
+Brown University Health Saint Anne's Hospital,MA,BDC,14,Brown University Health Saint Anne's Hospital | 795 Middle Street | Fall River | MA | 02721 | BDC | Yes | Hospital,BROWN UNIVERSITY HEALTH ST ANNE S HOSPITAL
+Cape Cod Hospital,MA,BDC,14,Cape Cod Hospital | 27 Park Street | Hyannis | MA | 2601 | BDC | No | Hospital,CAPE COD HOSPITAL
+Charlton Memorial Hospital,MA,BDC,14,Charlton Memorial Hospital | 363 Highland Ave | Fall River | MA | 02720 | BDC | No | Hospital,CHARLTON MEMORIAL HOSPITAL
+Lowell General Hospital,MA,BDC+,14,Lowell General Hospital | 295 Varnum Avenue | Lowell | MA | 1854 | BDC+ | No | Hospital,LOWELL GENERAL HOSPITAL
+Mount Auburn Hospital,MA,BDC+,14,Mount Auburn Hospital | 330 Mount Auburn Street | Cambridge | MA | 2138 | BDC+ | No | Hospital,MOUNT AUBURN HOSPITAL
+Southcoast Hospitals Group - St. Luke's Hospital,MA,BDC+,14,Southcoast Hospitals Group - St. Luke's Hospital | 101 Page Street | New Bedford | MA | 02740 | BDC+ | No | Hospital,SOUTHCOAST HOSPITALS GROUP ST LUKE S HOSPITAL
+TIDALHEALTH PENINSULA REGIONAL INC,MD,BDC+,14,TIDALHEALTH PENINSULA REGIONAL INC | 100 E CARROLL ST | Salisbury | MD | 21801 | BDC+ | Yes | Hospital,TIDALHEALTH PENINSULA REGIONAL INC
+UPPER CHESAPEAKE MEDICAL CENTER,MD,BDC+,14,UPPER CHESAPEAKE MEDICAL CENTER | 500 UPPER CHESAPEAKE DR | Bel Air | MD | 21014 | BDC+ | No | Hospital,UPPER CHESAPEAKE MED CTR
+St Joseph Hospital,ME,BDC,14,St Joseph Hospital | 360 Broadway | Bangor | ME | 04401-3979 | BDC | No | Hospital,ST JOSEPH HOSPITAL
+Ascension Borgess Hospital,MI,BDC,14,Ascension Borgess Hospital | 1521 GULL RD | Kalamazoo | MI | 49048 | BDC | No | Hospital,ASCENSION BORGESS HOSPITAL
+Ascension Providence Hospital-Novi,MI,BDC+,14,Ascension Providence Hospital-Novi | 47601 Grand River | Novi | MI | 48374 | BDC+ | No | Hospital,ASCENSION PROVIDENCE HOSPITAL NOVI
+BRONSON METHODIST HOSPITAL,MI,BDC+,14,BRONSON METHODIST HOSPITAL | 601 JOHN ST | Kalamazoo | MI | 49007 | BDC+ | Yes | Hospital,BRONSON METHODIST HOSPITAL
+Henry Ford Health St John Hospital,MI,BDC,14,Henry Ford Health St John Hospital | 22101 MOROSS RD | Detroit | MI | 48236 | BDC | No | Hospital,HENRY FORD HEALTH ST JOHN HOSPITAL
+Henry Ford Macomb Oakland Hospital,MI,BDC+,15,Henry Ford Macomb Oakland Hospital | 11800 E 12 MILE RD | Warren | MI | 48093 | BDC+ | No | Hospital,HENRY FORD MACOMB OAKLAND HOSPITAL
+Henry Ford Providence Hospital,MI,BDC+,15,Henry Ford Providence Hospital | 16001 W 9 MILE RD | Southfield | MI | 48075 | BDC+ | No | Hospital,HENRY FORD PROVIDENCE HOSPITAL
+HENRY FORD HOSPITAL,MI,BDC,15,HENRY FORD HOSPITAL | 2799 W Grand Blvd | Detroit | MI | 48202 | BDC | Yes | Hospital,HENRY FORD HOSPITAL
+HENRY FORD MACOMB HOSPITAL,MI,BDC,15,HENRY FORD MACOMB HOSPITAL | 15855 19 MILE RD | Clinton Township | MI | 48038 | BDC | No | Hospital,HENRY FORD MACOMB HOSPITAL
+HENRY FORD WYANDOTTE HOSPITAL,MI,BDC,15,HENRY FORD WYANDOTTE HOSPITAL | 2333 BIDDLE AVE | Wyandotte | MI | 48192 | BDC | Yes | Hospital,HENRY FORD WYANDOTTE HOSPITAL
+METRO HEALTH HOSPITAL,MI,BDC+,15,METRO HEALTH HOSPITAL | 5900 Byron Center Ave SW | Wyoming | MI | 49519 | BDC+ | No | Hospital,METRO HEALTH HOSPITAL
+Abbott Northwestern Hospital An Allina Facility,MN,BDC+,15,Abbott Northwestern Hospital An Allina Facility | 800 E 28Th St | Minneapolis | MN | 55407 | BDC+ | No | Hospital,ABBOTT NORTHWESTERN HOSPITAL AN ALLINA FACILITY
+Cuyuna Regional Medical Center,MN,BDC+,15,Cuyuna Regional Medical Center | 320 E Main St | Crosby | MN | 56441 | BDC+ | Yes | Hospital,CUYUNA REGIONAL MED CTR
+M Health Fairview Ridges Hospital,MN,BDC+,15,M Health Fairview Ridges Hospital | 201 E Nicollet Blvd | Burnsville | MN | 55337 | BDC+ | No | Hospital,M HEALTH FAIRVIEW RIDGES HOSPITAL
+M Health Fairview Southdale Hospital,MN,BDC+,15,M Health Fairview Southdale Hospital | 6401 France Ave S | Edina | MN | 55435 | BDC+ | No | Hospital,M HEALTH FAIRVIEW SOUTHDALE HOSPITAL
+M Health Fairview St Johns Hospital,MN,BDC,15,M Health Fairview St Johns Hospital | 1575 Beam Ave | Maplewood | MN | 55109 | BDC | No | Hospital,M HEALTH FAIRVIEW ST JOHNS HOSPITAL
+M Health Fairview University of Minnesota Medical Center,MN,BDC+,15,M Health Fairview University of Minnesota Medical Center | 2450 Riverside Ave | Minneapolis | MN | 55454 | BDC+ | No | Hospital,M HEALTH FAIRVIEW UNIVERSITY MINNESOTA MED CTR
+M Health Fairview Woodwinds Hospital,MN,BDC+,15,M Health Fairview Woodwinds Hospital | 1925 Woodwinds Dr | Woodbury | MN | 55125 | BDC+ | No | Hospital,M HEALTH FAIRVIEW WOODWINDS HOSPITAL
+Mayo Clinic Health System In Mankato,MN,BDC,15,Mayo Clinic Health System In Mankato | 1025 Marsh St | Mankato | MN | 56001 | BDC | No | Hospital,MAYO CLINIC IN MANKATO
+Mayo Clinic Hospital Rochester,MN,BDC,15,Mayo Clinic Hospital Rochester | 1216 2Nd St SW | Rochester | MN | 55902 | BDC | No | Hospital,MAYO CLINIC HOSPITAL ROCHESTER
+Ridgeview Medical Center,MN,BDC+,15,Ridgeview Medical Center | 500 S Maple St | Waconia | MN | 55387 | BDC+ | Yes | Hospital,RIDGEVIEW MED CTR
+ST FRANCIS REGIONAL MEDICAL CENTER,MN,BDC,15,ST FRANCIS REGIONAL MEDICAL CENTER | 1455 Saint Francis Ave | Shakopee | MN | 55379 | BDC | No | Hospital,ST FRANCIS REGIONAL MED CTR
+Freeman Oakhill Health System,MO,BDC,15,Freeman Oakhill Health System | 1102 W 32nd St | Joplin | MO | 64804-3503 | BDC | Yes | Hospital,FREEMAN OAKHILL
+Ssm Health Saint Louis University,MO,BDC,16,Ssm Health Saint Louis University | 1201 S Grand Blvd | Saint Louis | MO | 63104 | BDC | Yes | Hospital,SSM HEALTH ST LOUIS UNIVERSITY
+SSM Health St Marys Hospital Jefferson City,MO,BDC+,16,SSM Health St Marys Hospital Jefferson City | 2505 Mission Dr | Jefferson City | MO | 65109 | BDC+ | No | Hospital,SSM HEALTH ST MARYS HOSPITAL JEFFERSON CITY
+St Luke Hospital,MO,BDC+,16,St Luke Hospital | 232 S Woods Mill Rd | Chesterfield | MO | 63017-3406 | BDC+ | No | Hospital,ST LUKE HOSPITAL
+Baptist Memorial Hospital Golden Tri,MS,BDC+,16,Baptist Memorial Hospital Golden Tri | 2520 5th St N | Columbus | MS | 39705 | BDC+ | No | Hospital,BAPTIST MEMORIAL HOSPITAL GOLDEN TRI
+Forrest General Hospital,MS,BDC+,16,Forrest General Hospital | 6051 US Hwy 49 | Hattiesburg | MS | 39401 | BDC+ | No | Hospital,FORREST GENERAL HOSPITAL
+Merit Health River Oaks,MS,BDC+,16,Merit Health River Oaks | 1030 River Oaks Dr | Flowood | MS | 39232 | BDC+ | Yes | Hospital,MERIT HEALTH RIVER OAKS
+Mississippi Baptist Medical Center,MS,BDC+,16,Mississippi Baptist Medical Center | 1225 N State St | Jackson | MS | 39202 | BDC+ | No | Hospital,MISSISSIPPI BAPTIST MED CTR
+Ocean Springs Hospital,MS,BDC+,16,Ocean Springs Hospital | 3109 Bienville Blvd | Ocean Springs | MS | 39564 | BDC+ | Yes | Hospital,OCEAN SPRINGS HOSPITAL
+Singing River Hospital,MS,BDC+,16,Singing River Hospital | 2809 Denny Ave | Pascagoula | MS | 39581 | BDC+ | Yes | Hospital,SINGING RIVER HOSPITAL
+Billings Clinic,MT,BDC+,16,Billings Clinic | 2800 10Th Ave N | Billings | MT | 59101-0703 | BDC+ | No | Hospital,BILLINGS CLINIC
+BOZEMAN HEALTH,MT,BDC,16,BOZEMAN HEALTH | 915 Highland Blvd | Bozeman | MT | 59715 | BDC | No | Hospital,BOZEMAN HEALTH
+CAROMONT REGIONAL MEDICAL CENTER,NC,BDC+,16,CAROMONT REGIONAL MEDICAL CENTER | 2525 COURT DR | GASTONIA | NC | 28054 | BDC+ | No | Hospital,CAROMONT REGIONAL MED CTR
+MOSES H CONE MEMORIAL HOSPITAL,NC,BDC+,16,MOSES H CONE MEMORIAL HOSPITAL | 1200 N Elm St | Greensboro | NC | 27401 | BDC+ | Yes | Hospital,MOSES H CONE MEMORIAL HOSPITAL
+North Carolina Specialty Hospital,NC,BDC+,16,North Carolina Specialty Hospital | 3916 Ben Franklin Blvd | Durham | NC | 27704 | BDC+ | No | Hospital,NORTH CAROLINA SPECIALTY HOSPITAL
+NORTH CAROLINA BAPTIST HOSPITAL,NC,BDC+,16,NORTH CAROLINA BAPTIST HOSPITAL | Medical Center Blvd | Winston Salem | NC | 27157 | BDC+ | No | Hospital,NORTH CAROLINA BAPTIST HOSPITAL
+REX HOSPITAL,NC,BDC+,16,REX HOSPITAL | 4420 LAKE BOONE TRL | RALEIGH | NC | 27607 | BDC+ | Yes | Hospital,REX HOSPITAL
+WAKEMED CARY HOSPITAL,NC,BDC+,16,WAKEMED CARY HOSPITAL | 1900 Kildaire Farm Rd | Cary | NC | 27518 | BDC+ | No | Hospital,WAKEMED CARY HOSPITAL
+SANFORD MEDICAL CENTER,ND,BDC+,16,SANFORD MEDICAL CENTER | 300 N 7Th St | Bismarck | ND | 58501 | BDC+ | Yes | Hospital,SANFORD MED CTR
+Chi Health Good Samaritan,NE,BDC,16,Chi Health Good Samaritan | 10 E 31st St | Kearney | NE | 68847-2908 | BDC | No | Hospital,CHI HEALTH GOOD SAMARITAN
+Chi Health Immanuel,NE,BDC,16,Chi Health Immanuel | 6901 N 72nd St | Omaha | NE | 68122-1709 | BDC | No | Hospital,CHI HEALTH IMMANUEL
+Chi Health St Elizabeth,NE,BDC+,16,Chi Health St Elizabeth | 555 S 70th St | Lincoln | NE | 68510-2462 | BDC+ | Yes | Hospital,CHI HEALTH ST ELIZABETH
+Nebraska Spine Hospital LLC,NE,BDC+,16,Nebraska Spine Hospital LLC | 6901 N 72nd St Ste 20300 | Omaha | NE | 68122-1755 | BDC+ | No | Hospital,NEBRASKA SPINE HOSPITAL LLC
+Orthonebraska Hospital,NE,BDC+,17,Orthonebraska Hospital | 2808 S 143rd Plz | Omaha | NE | 68144-5611 | BDC+ | Yes | Hospital,ORTHONEBRASKA HOSPITAL
+PHELPS MEMORIAL HEALTH CENTER,NE,BDC,17,PHELPS MEMORIAL HEALTH CENTER | 1215 Tibbals St | Holdrege | NE | 68949-1255 | BDC | No | Hospital,PHELPS MEMORIAL HEALTH CENTER
+Parkland Medical Center,NH,BDC+,17,Parkland Medical Center | 1 Parkland Dr | Derry | NH | 03038-2746 | BDC+ | No | Hospital,PARKLAND MED CTR
+Hackensack UMC Palisades,NJ,BDC,17,Hackensack UMC Palisades | 7600 RIVER RD | North Bergen | NJ | 07047-6217 | BDC | No | Hospital,HACKENSACK UMC PALISADES
+Hackensack University Medical Center,NJ,BDC,17,Hackensack University Medical Center | 30 Prospect Ave | Hackensack | NJ | 07601-1915 | BDC | No | Hospital,HACKENSACK UNIVERSITY MED CTR
+JFK University Medical Center,NJ,BDC,17,JFK University Medical Center | 65 James St | Edison | NJ | 08820-3947 | BDC | No | Hospital,JFK UNIVERSITY MED CTR
+Kennedy Memorial Hospital,NJ,BDC+,17,Kennedy Memorial Hospital | 435 HURFFVILLE CROSS KEYS RD | Turnersville | NJ | 08012-2453 | BDC+ | No | Hospital,KENNEDY MEMORIAL HOSPITAL
+Ocean University Medical Center,NJ,BDC+,17,Ocean University Medical Center | 425 JACK MARTIN BLVD | Brick | NJ | 08724-7732 | BDC+ | No | Hospital,OCEAN UNIVERSITY MED CTR
+Robert Wood Johnson at Hamilton,NJ,BDC,17,Robert Wood Johnson at Hamilton | 1 Hamilton Health PL | Hamilton | NJ | 08690-3542 | BDC | No | Hospital,ROBERT WOOD JOHNSON HAMILTON
+Virtua Our Lady of Lourdes Hospital,NJ,BDC+,17,Virtua Our Lady of Lourdes Hospital | 1600 HADDON AVE | Camden | NJ | 08103-3101 | BDC+ | Yes | Hospital,VIRTUA OUR LADY LOURDES HOSPITAL
+Virtua West Jersey Health System,NJ,BDC,17,Virtua West Jersey Health System | 100 BOWMAN DR | Voorhees | NJ | 08043-9612 | BDC | Yes | Hospital,VIRTUA WEST JERSEY
+Northern Nevada Medical Center,NV,BDC+,17,Northern Nevada Medical Center | 2375 E Prater Way | Sparks | NV | 89434-9641 | BDC+ | No | Hospital,NORTHERN NEVADA MED CTR
+Renown Regional Medical Center,NV,BDC+,17,Renown Regional Medical Center | 1155 Mill St | Reno | NV | 89502-1576 | BDC+ | No | Hospital,RENOWN REGIONAL MED CTR
+Spring Valley Medical Center,NV,BDC,17,Spring Valley Medical Center | 5400 S Rainbow Blvd | Las Vegas | NV | 89118-1859 | BDC | No | Hospital,SPRING VALLEY MED CTR
+Crouse Hospital,NY,BDC+,17,Crouse Hospital | 736 Irving Ave | Syracuse | NY | 13210 | BDC+ | No | Hospital,CROUSE HOSPITAL
+Highland Hospital,NY,BDC+,17,Highland Hospital | 1000 South Ave | Rochester | NY | 14620 | BDC+ | No | Hospital,HIGHLAND HOSPITAL
+Hospital For Special Surgery,NY,BDC+,17,Hospital For Special Surgery | 535 E 70th St | New York | NY | 10021-4823 | BDC+ | No | Hospital,HOSPITAL FOR SPECIAL SURGERY
+Millard Fillmore Suburban Hospital,NY,BDC,17,Millard Fillmore Suburban Hospital | 1540 MAPLE ROAD | BUFFALO | NY | 14221 | BDC | No | Hospital,MILLARD FILLMORE SUBURBAN HOSPITAL
+New York Pres/Queens,NY,BDC,17,New York Pres/Queens | 5645 Main St | Flushing | NY | 11355 | BDC | No | Hospital,NEW YORK PRES QUEENS
+Ny Presbyterian Westchester Hospital,NY,BDC,17,Ny Presbyterian Westchester Hospital | 55 Palmer Ave | Bronxville | NY | 10708 | BDC | No | Hospital,NY PRESBYTERIAN WESTCHESTER HOSPITAL
+Nyu Langone Hospital Brooklyn,NY,BDC,17,Nyu Langone Hospital Brooklyn | 150 55th St | Brooklyn | NY | 11220 | BDC | Yes | Hospital,NYU LANGONE HOSPITAL BROOKLYN
+Nyu Langone Hospitals,NY,BDC,17,Nyu Langone Hospitals | 259 1st St | Mineola | NY | 11501 | BDC | Yes | Hospital,NYU LANGONE HOSPITALS
+Presbyterian Allen Hosp,NY,BDC,17,Presbyterian Allen Hosp | 5141 Broadway | New York | NY | 10034 | BDC | No | Hospital,PRESBYTERIAN ALLEN HOSP
+Rome Memorial Hospital,NY,BDC+,18,Rome Memorial Hospital | 1500 N James St | Rome | NY | 13440 | BDC+ | No | Hospital,ROME MEMORIAL HOSPITAL
+St Peter's Hospital,NY,BDC,18,St Peter's Hospital | 315 S Manning Blvd | Albany | NY | 12208 | BDC | No | Hospital,ST PETER S HOSPITAL
+St. Joseph's Hospital Health Center,NY,BDC+,18,St. Joseph's Hospital Health Center | 301 Prospect Ave | Syracuse | NY | 13203 | BDC+ | Yes | Hospital,ST JOSEPH S HOSPITAL HEALTH CENTER
+The New York And Presbyterian Hospital,NY,BDC,18,The New York And Presbyterian Hospital | 525 E 68th St | New York | NY | 10065-4870 | BDC | No | Hospital,NEW YORK AND PRESBYTERIAN HOSPITAL
+Bethesda Hospital,OH,BDC+,18,Bethesda Hospital | 10500 Montgomery Rd | Montgomery | OH | 45242-4402 | BDC+ | No | Hospital,BETHESDA HOSPITAL
+Crystal Clinic Orthopaedic Center LLC,OH,BDC+,18,Crystal Clinic Orthopaedic Center LLC | 3557 Embassy Parkway | Akron | OH | 44333 | BDC+ | No | Hospital,CRYSTAL CLINIC ORTHOPAEDIC CENTER LLC
+Good Samaritan Hospital,OH,BDC,18,Good Samaritan Hospital | 375 Dixmyth Ave | Cincinnati | OH | 45220-2475 | BDC | No | Hospital,GOOD SAMARITAN HOSPITAL
+Jewish Hospital,OH,BDC,18,Jewish Hospital | 4777 E Galbraith Rd | Cincinnati | OH | 45236-2725 | BDC | No | Hospital,JEWISH HOSPITAL
+Lake Hospital System,OH,BDC,18,Lake Hospital System | 7590 Auburn Rd | Concord Twp | OH | 44077-9176 | BDC | No | Hospital,LAKE
+Mercy Health St Vincent Medical Center,OH,BDC,18,Mercy Health St Vincent Medical Center | 2213 Cherry St | Toledo | OH | 43608-2603 | BDC | No | Hospital,MERCY HEALTH ST VINCENT MED CTR
+Mercy Health West Hospital,OH,BDC,18,Mercy Health West Hospital | 3300 Mercy Health Blvd | Cincinnati | OH | 45211-1103 | BDC | No | Hospital,MERCY HEALTH WEST HOSPITAL
+Mercy Hospital Anderson,OH,BDC,18,Mercy Hospital Anderson | 7500 State Rd | Cincinnati | OH | 45255-2439 | BDC | No | Hospital,MERCY HOSPITAL ANDERSON
+Mercy Hospital Fairfield,OH,BDC,18,Mercy Hospital Fairfield | 3000 Mack Rd | Fairfield | OH | 45014-5335 | BDC | No | Hospital,MERCY HOSPITAL FAIRFIELD
+Mercy St Anne Hospital,OH,BDC+,18,Mercy St Anne Hospital | 3404 W Sylvania Ave | Toledo | OH | 43623-4467 | BDC+ | No | Hospital,MERCY ST ANNE HOSPITAL
+Mercy St Charles Hospital,OH,BDC,18,Mercy St Charles Hospital | 2600 Navarre Ave | Oregon | OH | 43616-3207 | BDC | No | Hospital,MERCY ST CHARLES HOSPITAL
+Miami Valley Hospital,OH,BDC+,18,Miami Valley Hospital | 1 Wyoming St | Dayton | OH | 45409-2722 | BDC+ | No | Hospital,MIAMI VALLEY HOSPITAL
+Mount Carmel New Albany Surgical Hospital,OH,BDC,18,Mount Carmel New Albany Surgical Hospital | 7333 Smiths Mill Rd | New Albany | OH | 43054-9291 | BDC | Yes | Hospital,MOUNT CARMEL NEW ALBANY SURGICAL HOSPITAL
+St Anns Hospital,OH,BDC,18,St Anns Hospital | 500 S Cleveland Ave | Westerville | OH | 43081-8971 | BDC | Yes | Hospital,ST ANNS HOSPITAL
+Toledo Hospital,OH,BDC,18,Toledo Hospital | 2142 N Cove Blvd | Toledo | OH | 43606-3895 | BDC | No | Hospital,TOLEDO HOSPITAL
+Uh Ahuja Medical Center,OH,BDC+,18,Uh Ahuja Medical Center | 3999 Richmond Rd | Beachwood | OH | 44122-6046 | BDC+ | No | Hospital,UH AHUJA MED CTR
+Uh Elyria Medical Center,OH,BDC+,18,Uh Elyria Medical Center | 630 E River St | Elyria | OH | 44035-5902 | BDC+ | No | Hospital,UH ELYRIA MED CTR
+Uh Parma Medical Center,OH,BDC,19,Uh Parma Medical Center | 7007 Powers Blvd | Cleveland | OH | 44129-5437 | BDC | No | Hospital,UH PARMA MED CTR
+Uh Regional Hospitals Geauga Campus,OH,BDC,19,Uh Regional Hospitals Geauga Campus | 13207 Ravenna Rd | Chardon | OH | 44024-7032 | BDC | No | Hospital,UH REGIONAL HOSPITALS GEAUGA CAMPUS
+Uh Saint John Medical Center,OH,BDC+,19,Uh Saint John Medical Center | 29000 Center Ridge Rd | Cleveland | OH | 44145-5219 | BDC+ | No | Hospital,UH ST JOHN MED CTR
+West Chester Hospital,OH,BDC+,19,West Chester Hospital | 7700 University Dr | West Chester | OH | 45069-2505 | BDC+ | No | Hospital,WEST CHESTER HOSPITAL
+Wood County Hospital,OH,BDC,19,Wood County Hospital | 950 W Wooster St | Bowling Green | OH | 43402-2603 | BDC | No | Hospital,WOOD COUNTY HOSPITAL
+COMMUNITY HOSPITAL,OK,BDC,19,COMMUNITY HOSPITAL | 3100 SW 89th St | Oklahoma City | OK | 73159 | BDC | No | Hospital,COMMUNITY HOSPITAL
+MCBRIDE CLINIC ORTHOPEDIC HOSP,OK,BDC+,19,MCBRIDE CLINIC ORTHOPEDIC HOSP | 9600 Broadway Ext | Oklahoma City | OK | 73114 | BDC+ | Yes | Hospital,MCBRIDE CLINIC ORTHOPEDIC HOSP
+Oklahoma Surgical Hospital LLC,OK,BDC+,19,Oklahoma Surgical Hospital LLC | 2408 E 81ST ST | TULSA | OK | 74137-4215 | BDC+ | No | Hospital,OKLAHOMA SURGICAL HOSPITAL LLC
+ST ANTHONY HOSPITAL,OK,BDC+,19,ST ANTHONY HOSPITAL | 1000 N Lee Ave | Oklahoma City | OK | 73102 | BDC+ | Yes | Hospital,ST ANTHONY HOSPITAL
+Abington Memorial Hospital,PA,BDC,19,Abington Memorial Hospital | 1200 Old York Road | Abington | PA | 19001 | BDC | No | Hospital,ABINGTON MEMORIAL HOSPITAL
+AHN Wexford Hospital,PA,BDC+,19,AHN Wexford Hospital | 12351 PERRY HIGHWAY | WEXFORD | PA | 15090 | BDC+ | Yes | Hospital,AHN WEXFORD HOSPITAL
+Allegheny General Hospital,PA,BDC,19,Allegheny General Hospital | 320 E North Ave | Pittsburgh | PA | 15212 | BDC | Yes | Hospital,ALLEGHENY GENERAL HOSPITAL
+Allegheny General Hospital,PA,BDC+,19,Allegheny General Hospital | 320 E North Ave | Pittsburgh | PA | 15212 | BDC+ | Yes | Hospital,ALLEGHENY GENERAL HOSPITAL
+DOYLESTOWN HOSPITAL,PA,BDC,19,DOYLESTOWN HOSPITAL | 595 West State Street | Doylestown | PA | 18901 | BDC | No | Hospital,DOYLESTOWN HOSPITAL
+Ephrata Community Hospital,PA,BDC+,19,Ephrata Community Hospital | 169 Martin Ave | Ephrata | PA | 17522 | BDC+ | No | Hospital,EPHRATA COMMUNITY HOSPITAL
+Forbes Hospital,PA,BDC,19,Forbes Hospital | 2570 Haymaker Road | Monroeville | PA | 15146 | BDC | Yes | Hospital,FORBES HOSPITAL
+Forbes Hospital,PA,BDC+,19,Forbes Hospital | 2570 Haymaker Road | Monroeville | PA | 15146 | BDC+ | Yes | Hospital,FORBES HOSPITAL
+Geisinger Community Med Ctr,PA,BDC,19,Geisinger Community Med Ctr | 1800 Mulberry St | Scranton | PA | 18510 | BDC | No | Hospital,GEISINGER COMMUNITY MED CTR
+Geisinger Medical Center,PA,BDC,19,Geisinger Medical Center | 100 N Academy Ave | Danville | PA | 17822 | BDC | No | Hospital,GEISINGER MED CTR
+Geisinger Wyoming Valley Medical Center,PA,BDC,19,Geisinger Wyoming Valley Medical Center | 1000 EAST MOUNTAIN BOULEVARD | WILKES BARRE | PA | 18711 | BDC | No | Hospital,GEISINGER WYOMING VALLEY MED CTR
+HERITAGE VALLEY SEWICKLEY,PA,BDC+,19,HERITAGE VALLEY SEWICKLEY | 720 Blackburn Rd | Sewickley | PA | 15143 | BDC+ | Yes | Hospital,HERITAGE VALLEY SEWICKLEY
+Jefferson Health Northeast,PA,BDC+,19,Jefferson Health Northeast | 380 North Oxford Valley Road | Langhorne | PA | 19047 | BDC+ | No | Hospital,JEFFERSON HEALTH NORTHEAST
+Jefferson Regional Medical Center,PA,BDC,19,Jefferson Regional Medical Center | 565 Coal Valley Road | Jefferson Hills | PA | 15025 | BDC | Yes | Hospital,JEFFERSON REGIONAL MED CTR
+Jefferson Regional Medical Center,PA,BDC+,20,Jefferson Regional Medical Center | 565 Coal Valley Road | Jefferson Hills | PA | 15025 | BDC+ | Yes | Hospital,JEFFERSON REGIONAL MED CTR
+Lancaster General Hospital,PA,BDC,20,Lancaster General Hospital | 555 N Duke St | Lancaster | PA | 17602 | BDC | No | Hospital,LANCASTER GENERAL HOSPITAL
+Lancaster General Hospital,PA,BDC+,20,Lancaster General Hospital | 555 N Duke St | Lancaster | PA | 17602 | BDC+ | No | Hospital,LANCASTER GENERAL HOSPITAL
+Lansdale Hospital,PA,BDC+,20,Lansdale Hospital | 100 Medical Campus Drive | Lansdale | PA | 19446 | BDC+ | No | Hospital,LANSDALE HOSPITAL
+Lewistown Hospital,PA,BDC,20,Lewistown Hospital | 400 Highland Ave | Lewistown | PA | 17044 | BDC | No | Hospital,LEWISTOWN HOSPITAL
+MAIN LINE HOSPITALS INC - BRYN MAWR,PA,BDC,20,MAIN LINE HOSPITALS INC - BRYN MAWR | 130 South Bryn Mawr Ave | Bryn Mawr | PA | 19010 | BDC | No | Hospital,MAIN LINE HOSPITALS BRYN MAWR
+OSS Orthopaedic Hospital LLC,PA,BDC,20,OSS Orthopaedic Hospital LLC | 1861 Powder Mill Rd | York | PA | 17402 | BDC | No | Hospital,OSS ORTHOPAEDIC HOSPITAL LLC
+OSS Orthopaedic Hospital LLC,PA,BDC+,20,OSS Orthopaedic Hospital LLC | 1861 Powder Mill Rd | York | PA | 17402 | BDC+ | No | Hospital,OSS ORTHOPAEDIC HOSPITAL LLC
+Presbyterian Medical Center,PA,BDC,20,Presbyterian Medical Center | 51 N 39th St | Philadelphia | PA | 19104 | BDC | No | Hospital,PRESBYTERIAN MED CTR
+Riddle Memorial Hospital,PA,BDC,20,Riddle Memorial Hospital | 1068 West Baltimore Pk | Media | PA | 19063 | BDC | No | Hospital,RIDDLE MEMORIAL HOSPITAL
+Rothman Orthopaedic Specialty Hospital,PA,BDC+,20,Rothman Orthopaedic Specialty Hospital | 3300 Tillman Drive | Bensalem | PA | 19020 | BDC+ | No | Hospital,ROTHMAN ORTHOPAEDIC SPECIALTY HOSPITAL
+SAINT VINCENT HEALTH CENTER,PA,BDC,20,SAINT VINCENT HEALTH CENTER | 232 W 25th St | Erie | PA | 16544 | BDC | Yes | Hospital,ST VINCENT HEALTH CENTER
+SAINT VINCENT HEALTH CENTER,PA,BDC+,20,SAINT VINCENT HEALTH CENTER | 232 W 25th St | Erie | PA | 16544 | BDC+ | Yes | Hospital,ST VINCENT HEALTH CENTER
+ST LUKES HOSPITAL ANDERSON CAMPUS,PA,BDC,20,ST LUKES HOSPITAL ANDERSON CAMPUS | 1872 ST LUKES BOULEVARD | EASTON | PA | 18045 | BDC | No | Hospital,ST LUKES HOSPITAL ANDERSON CAMPUS
+Thomas Jefferson University Hospitals Inc,PA,BDC,20,Thomas Jefferson University Hospitals Inc | 111 SOUTH 11TH STREET | PHILADELPHIA | PA | 19107 | BDC | No | Hospital,THOMAS JEFFERSON UNIVERSITY HOSPITALS INC
+UPMC Hanover,PA,BDC,20,UPMC Hanover | 300 Highland Ave | Hanover | PA | 17331 | BDC | Yes | Hospital,UPMC HANOVER
+UPMC Pinnacle Hospitals,PA,BDC,20,UPMC Pinnacle Hospitals | 111 S Front St | Harrisburg | PA | 17101 | BDC | No | Hospital,UPMC PINNACLE HOSPITALS
+UPMC Pinnacle Hospitals,PA,BDC+,20,UPMC Pinnacle Hospitals | 111 S Front St | Harrisburg | PA | 17101 | BDC+ | Yes | Hospital,UPMC PINNACLE HOSPITALS
+Wellspan Gettysburg Hospital,PA,BDC,20,Wellspan Gettysburg Hospital | 147 Gettys Street | Gettysburg | PA | 17325 | BDC | No | Hospital,WELLSPAN GETTYSBURG HOSPITAL
+WellSpan Chambersburg Hospital,PA,BDC,20,WellSpan Chambersburg Hospital | 112 N 7th St | Chambersburg | PA | 17201 | BDC | No | Hospital,WELLSPAN CHAMBERSBURG HOSPITAL
+WellSpan Surgery and Rehabilitation Hospital,PA,BDC,21,WellSpan Surgery and Rehabilitation Hospital | 55 Monument Rd | York | PA | 17403 | BDC | No | Hospital,WELLSPAN SURGERY AND REHABILITATION HOSPITAL
+York Hospital,PA,BDC,21,York Hospital | 1001 S George St | York | PA | 17405 | BDC | No | Hospital,YORK HOSPITAL
+ANMED HEALTH,SC,BDC,21,ANMED HEALTH | 800 N FANT ST | ANDERSON | SC | 29621 | BDC | Yes | Hospital,ANMED HEALTH
+BEAUFORT MEMORIAL HOSPITAL,SC,BDC,21,BEAUFORT MEMORIAL HOSPITAL | 955 RIBAUT RD | BEAUFORT | SC | 29902 | BDC | No | Hospital,BEAUFORT MEMORIAL HOSPITAL
+BON SECOURS ST FRANCIS XAVIER HOSPITA,SC,BDC,21,BON SECOURS ST FRANCIS XAVIER HOSPITA | 2095 Henry Tecklenburg Dr | Charleston | SC | 29414 | BDC | No | Hospital,BON SECOURS ST FRANCIS XAVIER HOSPITA
+Conway Medical Center,SC,BDC+,21,Conway Medical Center | 300 Singleton Ridge Rd | Conway | SC | 29526 | BDC+ | No | Hospital,CONWAY MED CTR
+East Cooper Medical Center,SC,BDC,21,East Cooper Medical Center | 2000 HOSPITAL DR | MOUNT PLEASANT | SC | 29464 | BDC | No | Hospital,EAST COOPER MED CTR
+Grand Strand Regional Medical Center,SC,BDC+,21,Grand Strand Regional Medical Center | 809 82ND PKWY | MYRTLE BEACH | SC | 29572 | BDC+ | No | Hospital,GRAND STRAND REGIONAL MED CTR
+Hilton Head Hospital,SC,BDC,21,Hilton Head Hospital | 25 HOSPITAL CENTER BLVD | HILTON HEAD ISLAND | SC | 29926 | BDC | No | Hospital,HILTON HEAD HOSPITAL
+Lexington Medical Center,SC,BDC,21,Lexington Medical Center | 2720 Sunset Blvd | West Columbia | SC | 29169 | BDC | No | Hospital,LEXINGTON MED CTR
+Medical University Hospital,SC,BDC,21,Medical University Hospital | 169 ASHLEY AVE | CHARLESTON | SC | 29425 | BDC | Yes | Hospital,MEDICAL UNIVERSITY HOSPITAL
+MUSC HEALTH COLUMBIA MEDICAL CTR NE,SC,BDC+,21,MUSC HEALTH COLUMBIA MEDICAL CTR NE | 120 GATEWAY CORPORATE BLVD | COLUMBIA | SC | 29203 | BDC+ | Yes | Hospital,MUSC HEALTH COLUMBIA MEDICAL CTR NE
+Pelham Medical Center,SC,BDC,21,Pelham Medical Center | 250 WESTMORELAND RD | GREER | SC | 29651 | BDC | Yes | Hospital,PELHAM MED CTR
+Piedmont Medical Center,SC,BDC,21,Piedmont Medical Center | 222 Herlong Ave S | Rock Hill | SC | 29732 | BDC | No | Hospital,PIEDMONT MED CTR
+Prisma Health Baptist Hospital,SC,BDC,21,Prisma Health Baptist Hospital | 1330 TAYLOR ST | COLUMBIA | SC | 29201 | BDC | No | Hospital,PRISMA HEALTH BAPTIST HOSPITAL
+Prisma Health Baptist Parkridge Hospita,SC,BDC+,21,Prisma Health Baptist Parkridge Hospita | 400 PALMETTO HEALTH PKWY | COLUMBIA | SC | 29212 | BDC+ | No | Hospital,PRISMA HEALTH BAPTIST PARKRIDGE HOSPITA
+PRISMA HEALTH PATEWOOD HOSP,SC,BDC,22,PRISMA HEALTH PATEWOOD HOSP | 175 PATEWOOD DR | GREENVILLE | SC | 29615 | BDC | No | Hospital,PRISMA HEALTH PATEWOOD HOSP
+Rock Hill Hospital Piedmont Medical Net,SC,BDC,22,Rock Hill Hospital Piedmont Medical Net | 1000 Wellness Way | Fort Mill | SC | 29715 | BDC | No | Hospital,ROCK HILL HOSPITAL PIEDMONT MEDICAL NET
+Self Regional Healthcare Otpt Svcs,SC,BDC,22,Self Regional Healthcare Otpt Svcs | 1325 SPRING ST | GREENWOOD | SC | 29646 | BDC | Yes | Hospital,SELF REGIONAL HEALTHCARE OTPT SVCS
+ST FRANCIS HOSPITAL INC,SC,BDC,22,ST FRANCIS HOSPITAL INC | 1 SAINT FRANCIS DR | GREENVILLE | SC | 29601 | BDC | No | Hospital,ST FRANCIS HOSPITAL INC
+Waccamaw Community Hospital,SC,BDC,22,Waccamaw Community Hospital | 4070 Highway 17 | Murrells Inlet | SC | 29576 | BDC | Yes | Hospital,WACCAMAW COMMUNITY HOSPITAL
+Sioux Falls Specialty Hospital,SD,BDC+,22,Sioux Falls Specialty Hospital | 910 E 20Th St | Sioux Falls | SD | 57105-1012 | BDC+ | Yes | Hospital,SIOUX FALLS SPECIALTY HOSPITAL
+Ascension Saint Thomas Hospital,TN,BDC,22,Ascension Saint Thomas Hospital | 4220 Harding Pike | Nashville | TN | 37205-9998 | BDC | No | Hospital,ASCENSION ST THOMAS HOSPITAL
+Ascension Saint Thomas Rutherford Hospital,TN,BDC,22,Ascension Saint Thomas Rutherford Hospital | 1700 Medical Center Pkwy | Murfreesboro | TN | 37129 | BDC | No | Hospital,ASCENSION ST THOMAS RUTHERFORD HOSPITAL
+Baptist Memorial Hospital Memphis,TN,BDC,22,Baptist Memorial Hospital Memphis | 1500 W Poplar Ave | Collierville | TN | 38017 | BDC | Yes | Hospital,BAPTIST MEMORIAL HOSPITAL MEMPHIS
+Erlanger Health,TN,BDC+,22,Erlanger Health | 975 E 3rd St | CHATTANOOGA | TN | 37403-2147 | BDC+ | Yes | Hospital,ERLANGER HEALTH
+Fort Sanders Regional Medical Center,TN,BDC,22,Fort Sanders Regional Medical Center | 1901 W Clinch Ave | Knoxville | TN | 37916 | BDC | No | Hospital,FORT SANDERS REGIONAL MED CTR
+Memorial Hospital,TN,BDC+,22,Memorial Hospital | 2525 DeSales Ave | Chattanooga | TN | 37404 | BDC+ | No | Hospital,MEMORIAL HOSPITAL
+Methodist Medical Center of Oak Ridge,TN,BDC+,22,Methodist Medical Center of Oak Ridge | 990 Oak Ridge Tpke | Oak Ridge | TN | 37830 | BDC+ | No | Hospital,METHODIST MED CTR OAK RIDGE
+Parkridge Medical Center,TN,BDC,22,Parkridge Medical Center | 2333 McCallie Ave | Chattanooga | TN | 37404-9998 | BDC | No | Hospital,PARKRIDGE MED CTR
+Parkwest Medical Center,TN,BDC+,22,Parkwest Medical Center | 9352 Park West Blvd | Knoxville | TN | 37923-4387 | BDC+ | No | Hospital,PARKWEST MED CTR
+TriStar Stonecrest Medical Center,TN,BDC,22,TriStar Stonecrest Medical Center | 200 StoneCrest Blvd | Smyrna | TN | 37167 | BDC | No | Hospital,TRISTAR STONECREST MED CTR
+TriStar Summit Medical Center,TN,BDC,22,TriStar Summit Medical Center | 5655 Frist Blvd | Hermitage | TN | 37076 | BDC | No | Hospital,TRISTAR SUMMIT MED CTR
+University of Tennessee Medical Center,TN,BDC+,22,University of Tennessee Medical Center | 1924 Alcoa Hwy | Knoxville | TN | 37920-9998 | BDC+ | No | Hospital,UNIVERSITY TENNESSEE MED CTR
+Ascension Seton Hays,TX,BDC,22,Ascension Seton Hays | 6001 KYLE PKWY | KYLE | TX | 78640-6112 | BDC | Yes | Hospital,ASCENSION SETON HAYS
+Ascension Seton Med Center Austin,TX,BDC,22,Ascension Seton Med Center Austin | 1201 WEST 38TH STREET | AUSTIN | TX | 78705-0000 | BDC | Yes | Hospital,ASCENSION SETON MED CENTER AUSTIN
+ASCENSION PROVIDENCE,TX,BDC+,23,ASCENSION PROVIDENCE | 6901 MEDICAL PKWY | WACO | TX | 76712-7910 | BDC+ | Yes | Hospital,ASCENSION PROVIDENCE
+ASCENSION SETON WILLIAMSON,TX,BDC,23,ASCENSION SETON WILLIAMSON | 201 SETON PKWY | ROUND ROCK | TX | 78665-2268 | BDC | Yes | Hospital,ASCENSION SETON WILLIAMSON
+B S & W MEDICAL CENTER UPTOWN,TX,BDC+,23,B S & W MEDICAL CENTER UPTOWN | 2727 E Lemmon Ave | Dallas | TX | 75204-2833 | BDC+ | No | Hospital,B S AND W MED CTR UPTOWN
+Baylor University Medical Center,TX,BDC,23,Baylor University Medical Center | 3500 GASTON AVE | DALLAS | TX | 75246-2017 | BDC | No | Hospital,BAYLOR UNIVERSITY MED CTR
+BAYLOR SURGICAL HOSP LAS COLINAS,TX,BDC,23,BAYLOR SURGICAL HOSP LAS COLINAS | 400 Lyndon B Johnson Fwy | Irving | TX | 75063-3718 | BDC | No | Hospital,BAYLOR SURGICAL HOSP LAS COLINAS
+Bs&W Surgical Hospital Fort Worth,TX,BDC,23,Bs&W Surgical Hospital Fort Worth | 1800 PARK PLACE AVE | FORT WORTH | TX | 76110-1302 | BDC | No | Hospital,BS AND W SURGICAL HOSPITAL FORT WORTH
+BS&W MEDICAL CENTER FRISCO,TX,BDC,23,BS&W MEDICAL CENTER FRISCO | 5601 Warren Pkwy | Frisco | TX | 75034-4069 | BDC | No | Hospital,BS AND W MED CTR FRISCO
+BS&W MEDICAL CENTER MCKINNEY,TX,BDC,23,BS&W MEDICAL CENTER MCKINNEY | 5252 W UNIVERSITY DR | MCKINNEY | TX | 75071-7822 | BDC | No | Hospital,BS AND W MED CTR MCKINNEY
+BS&W MEDICAL CENTER ROUND ROCK,TX,BDC+,23,BS&W MEDICAL CENTER ROUND ROCK | 300 UNIVERSITY BLVD | ROUND ROCK | TX | 78665-1032 | BDC+ | No | Hospital,BS AND W MED CTR ROUND ROCK
+BS&W TEXAS SPINE & JOINT HOSPITAL,TX,BDC+,23,BS&W TEXAS SPINE & JOINT HOSPITAL | 1814 ROSELAND BLVD | TYLER | TX | 75701-4234 | BDC+ | No | Hospital,BS AND W TEXAS SPINE AND JOINT HOSPITAL
+Chi St Lukes Hlth Baylor Coll Med,TX,BDC+,23,Chi St Lukes Hlth Baylor Coll Med | 6720 BERTNER STREET | HOUSTON | TX | 77225-0000 | BDC+ | No | Hospital,CHI ST LUKES HLTH BAYLOR COLL MED
+Chi St Lukes The Woodlands Hsptl,TX,BDC,23,Chi St Lukes The Woodlands Hsptl | 17200 ST LUKES WAY | THE WOODLANDS | TX | 77384-0000 | BDC | No | Hospital,CHI ST LUKES WOODLANDS HSPTL
+Christus Mother Frances Tyler,TX,BDC+,23,Christus Mother Frances Tyler | 800 East Dawson | Tyler | TX | 75701-0000 | BDC+ | No | Hospital,CHRISTUS MOTHER FRANCES TYLER
+DOCTORS HOSPITAL AT RENAISSANCE,TX,BDC+,23,DOCTORS HOSPITAL AT RENAISSANCE | 5501 S MCCOLL ROAD | EDINBURG | TX | 78539-0000 | BDC+ | No | Hospital,DOCTORS HOSPITAL RENAISSANCE
+EMINENT MEDICAL CENTER OPERATING,TX,BDC,23,EMINENT MEDICAL CENTER OPERATING | 1351 W Pres George Bush Hwy | Richardson | TX | 75080-1133 | BDC | No | Hospital,EMINENT MED CTR OPERATING
+HENDRICK MEDICAL CENTER,TX,BDC+,23,HENDRICK MEDICAL CENTER | 1900 PINE | ABILENE | TX | 79601-0000 | BDC+ | No | Hospital,HENDRICK MED CTR
+HOUSTON METHODIST BAYTOWN HOSP,TX,BDC,23,HOUSTON METHODIST BAYTOWN HOSP | 4401 GARTH ROAD | BAYTOWN | TX | 77521-2122 | BDC | No | Hospital,HOUSTON METHODIST BAYTOWN HOSP
+HOUSTON METHODIST HOSPITAL,TX,BDC,23,HOUSTON METHODIST HOSPITAL | 6565 Fannin St | Houston | TX | 77030-2703 | BDC | No | Hospital,HOUSTON METHODIST HOSPITAL
+HOUSTON METHODIST SUGAR LAND HOSP,TX,BDC,23,HOUSTON METHODIST SUGAR LAND HOSP | 16655 Southwest Fwy | Sugar Land | TX | 77479 | BDC | No | Hospital,HOUSTON METHODIST SUGAR LAND HOSP
+HOUSTON METHODIST THE WOODLANDS,TX,BDC,23,HOUSTON METHODIST THE WOODLANDS | 17201 Interstate 45 S | Shenandoah | TX | 77385 | BDC | Yes | Hospital,HOUSTON METHODIST WOODLANDS
+HOUSTON METHODIST WEST HOSPITAL,TX,BDC,23,HOUSTON METHODIST WEST HOSPITAL | 18500 Katy Fwy | Houston | TX | 77094 | BDC | No | Hospital,HOUSTON METHODIST WEST HOSPITAL
+HOUSTON METHODIST WILLOWBROOK,TX,BDC,23,HOUSTON METHODIST WILLOWBROOK | 18220 STATE HIGHWAY 249 | HOUSTON | TX | 77070-4347 | BDC | Yes | Hospital,HOUSTON METHODIST WILLOWBROOK
+Legent Hospital for Special Sx,TX,BDC,24,Legent Hospital for Special Sx | 4100 MAPLESHADE LN | PLANO | TX | 75093-0012 | BDC | Yes | Hospital,LEGENT HOSPITAL FOR SPECIAL SX
+LEGENT N HOUSTON SURGICAL HOSP,TX,BDC,24,LEGENT N HOUSTON SURGICAL HOSP | 24429 TOMBALL PKWY | TOMBALL | TX | 77375-8214 | BDC | Yes | Hospital,LEGENT N HOUSTON SURGICAL HOSP
+LEGENT ORTHOPEDIC HOSPITAL,TX,BDC,24,LEGENT ORTHOPEDIC HOSPITAL | 1401 E TRINITY MILLS ROAD | CARROLLTON | TX | 75006-1442 | BDC | Yes | Hospital,LEGENT ORTHOPEDIC HOSPITAL
+Medical City Dallas,TX,BDC,24,Medical City Dallas | 7777 Forest Ln | Dallas | TX | 75230 | BDC | No | Hospital,MEDICAL CITY DALLAS
+MEMORIAL HERMANN SW HOSPITAL,TX,BDC,24,MEMORIAL HERMANN SW HOSPITAL | 7600 BEECHNUT ST | HOUSTON | TX | 77074-4302 | BDC | No | Hospital,MEMORIAL HERMANN SW HOSPITAL
+Methodist Richardson Medical Ctr,TX,BDC,24,Methodist Richardson Medical Ctr | 2831 E President George Bush Hwy | Richardson | TX | 75082 | BDC | No | Hospital,METHODIST RICHARDSON MEDICAL CTR
+Methodist Southlake Hospital,TX,BDC,24,Methodist Southlake Hospital | 421 E St Highway 114 | Southlake | TX | 76092 | BDC | Yes | Hospital,METHODIST SOUTHLAKE HOSPITAL
+METHODIST HOSPITAL FOR SURGERY,TX,BDC,24,METHODIST HOSPITAL FOR SURGERY | 17101 Dallas Parkway | Addison | TX | 75001-7103 | BDC | No | Hospital,METHODIST HOSPITAL FOR SURGERY
+METHODIST MANSFIELD MEDICAL CTR,TX,BDC+,24,METHODIST MANSFIELD MEDICAL CTR | 2700 E Broad St | Mansfield | TX | 76063-5899 | BDC+ | Yes | Hospital,METHODIST MANSFIELD MEDICAL CTR
+Midland Memorial Hospital,TX,BDC,24,Midland Memorial Hospital | 400 Rosalind Redfern | Midland | TX | 79701-5846 | BDC | No | Hospital,MIDLAND MEMORIAL HOSPITAL
+North Central Surgical Center,TX,BDC,24,North Central Surgical Center | 9301 N CENTRAL EXPY STE 100 | DALLAS | TX | 75231-0802 | BDC | No | Hospital,NORTH CENTRAL SURGICAL CENTER
+NORTH CENTRAL BAPTIST HOSPITAL,TX,BDC,24,NORTH CENTRAL BAPTIST HOSPITAL | 520 Madison Oak Dr | San Antonio | TX | 78258-0000 | BDC | No | Hospital,NORTH CENTRAL BAPTIST HOSPITAL
+PHYSICIANS SURGICAL HOSPITALS LLC,TX,BDC+,24,PHYSICIANS SURGICAL HOSPITALS LLC | 6819 Plum Creek Dr | Amarillo | TX | 79124 | BDC+ | No | Hospital,PHYSICIANS SURGICAL HOSPITALS LLC
+SOUTH TEXAS SPINE & SURGICAL HOSP,TX,BDC+,24,SOUTH TEXAS SPINE & SURGICAL HOSP | 18600 N Hardy Oaks Blvd | San Antonio | TX | 78258-0000 | BDC+ | No | Hospital,SOUTH TEXAS SPINE AND SURGICAL HOSP
+Texas Health Hospital Frisco,TX,BDC,24,Texas Health Hospital Frisco | 12400 DALLAS PKWY | FRISCO | TX | 75033-4224 | BDC | No | Hospital,TEXAS HEALTH HOSPITAL FRISCO
+TEXAS ORTHOPEDIC HOSPITAL,TX,BDC,24,TEXAS ORTHOPEDIC HOSPITAL | 7401 SOUTH MAIN STREET | HOUSTON | TX | 77030-0000 | BDC | No | Hospital,TEXAS ORTHOPEDIC HOSPITAL
+Texoma Medical Center,TX,BDC+,24,Texoma Medical Center | 5016 S US Highway 75 | Denison | TX | 75020 | BDC+ | No | Hospital,TEXOMA MED CTR
+TX Health Arlington Memorial Hosp,TX,BDC,24,TX Health Arlington Memorial Hosp | 800 WEST RANDOL MILL | ARLINGTON | TX | 76012-2504 | BDC | No | Hospital,TX HEALTH ARLINGTON MEMORIAL HOSP
+TX Health Harris Meth Hosp SW Fw,TX,BDC,24,TX Health Harris Meth Hosp SW Fw | 6100 HARRIS PARKWAY | FORT WORTH | TX | 76132-0000 | BDC | No | Hospital,TX HEALTH HARRIS METH HOSP SW FW
+TX Health Presby Hosp Rockwall,TX,BDC,25,TX Health Presby Hosp Rockwall | 3150 HORIZON ROAD | ROCKWALL | TX | 75032-7805 | BDC | No | Hospital,TX HEALTH PRESBY HOSP ROCKWALL
+TX Hlth Harris Meth Southlake,TX,BDC,25,TX Hlth Harris Meth Southlake | 1545 East Southlake Blvd | Southlake | TX | 76092-6422 | BDC | No | Hospital,TX HLTH HARRIS METH SOUTHLAKE
+TX Hlth Presby Hosp Flower Mound,TX,BDC,25,TX Hlth Presby Hosp Flower Mound | 4400 Long Prairie Rd | Flower Mound | TX | 75028-1892 | BDC | No | Hospital,TX HLTH PRESBY HOSP FLOWER MOUND
+TX Hlth Presbyterian Hosp Denton,TX,BDC,25,TX Hlth Presbyterian Hosp Denton | 3000 N INTERSTATE 35 | DENTON | TX | 76201-5119 | BDC | No | Hospital,TX HLTH PRESBYTERIAN HOSP DENTON
+USMD Hospital at Arlington LP,TX,BDC,25,USMD Hospital at Arlington LP | 801 W Interstate 20 | Arlington | TX | 76017-5851 | BDC | No | Hospital,USMD HOSPITAL ARLINGTON LP
+UT Southwestern University Hosp,TX,BDC,25,UT Southwestern University Hosp | 6201 Harry Hines Blvd | Dallas | TX | 75235 | BDC | Yes | Hospital,UT SOUTHWESTERN UNIVERSITY HOSP
+Holy Cross Hospital- Jordan Valley,UT,BDC,25,Holy Cross Hospital- Jordan Valley | 3580 W 9000 S | West Jordan | UT | 84088-8812 | BDC | No | Hospital,HOLY CROSS HOSPITAL JORDAN VALLEY
+MOUNTAIN POINT MEDICAL CENTER,UT,BDC+,25,MOUNTAIN POINT MEDICAL CENTER | 3000 N Triumph Blvd | Lehi | UT | 84043-4999 | BDC+ | No | Hospital,MOUNTAIN POINT MED CTR
+OGDEN REGIONAL MEDICAL CENTER,UT,BDC,25,OGDEN REGIONAL MEDICAL CENTER | 5475 S 500 E | Ogden | UT | 84405-6905 | BDC | No | Hospital,OGDEN REGIONAL MED CTR
+UNIVERSITY HOSPITAL,UT,BDC+,25,UNIVERSITY HOSPITAL | 50 N Medical Dr | Salt Lake City | UT | 84132-0001 | BDC+ | Yes | Hospital,UNIVERSITY HOSPITAL
+Augusta Health,VA,BDC,25,Augusta Health | 78 Medical Center Dr | FISHERSVILLE | VA | 22939-2332 | BDC | Yes | Hospital,AUGUSTA HEALTH
+Bon Secours Maryview Hospital,VA,BDC,25,Bon Secours Maryview Hospital | 3636 High St | Portsmouth | VA | 23707-3236 | BDC | No | Hospital,BON SECOURS MARYVIEW HOSPITAL
+Bon Secours St Francis Medical Center,VA,BDC,25,Bon Secours St Francis Medical Center | 13710 St Francis Blvd | Midlothian | VA | 23114-3267 | BDC | No | Hospital,BON SECOURS ST FRANCIS MED CTR
+Bon Secours St Marys Hospital of Richmond,VA,BDC,25,Bon Secours St Marys Hospital of Richmond | 5801 Bremo Rd | Richmond | VA | 23226-1907 | BDC | No | Hospital,BON SECOURS ST MARYS HOSPITAL RICHMOND
+Bon Secoursmemorial Regional Medical Center,VA,BDC,25,Bon Secoursmemorial Regional Medical Center | 8260 Atlee Rd | Mechanicsvlle | VA | 23116-1844 | BDC | No | Hospital,BON SECOURSMEMORIAL REGIONAL MED CTR
+FAIRFAX HOSPITAL,VA,BDC,25,FAIRFAX HOSPITAL | 3300 GALLOWS ROAD | Falls Church | VA | 22042 | BDC | No | Hospital,FAIRFAX HOSPITAL
+Martha Jefferson Hospital Sentara,VA,BDC+,25,Martha Jefferson Hospital Sentara | 500 Martha Jefferson Dr | Charlottesville | VA | 22911-4668 | BDC+ | No | Hospital,MARTHA JEFFERSON HOSPITAL SENTARA
+Mary Immaculate Hospital,VA,BDC+,25,Mary Immaculate Hospital | 2 Bernardine Dr | Newport News | VA | 23602-4404 | BDC+ | No | Hospital,MARY IMMACULATE HOSPITAL
+Potomac Hospital Corporation of Prince William,VA,BDC,25,Potomac Hospital Corporation of Prince William | 2300 Opitz Blvd | Woodbridge | VA | 22191-3311 | BDC | No | Hospital,POTOMAC HOSPITAL CORPORATION PRINCE WILLIAM
+Riverside Regional Medical Center,VA,BDC,25,Riverside Regional Medical Center | 500 J Clyde Morris Blvd | Newport News | VA | 23601-1929 | BDC | No | Hospital,RIVERSIDE REGIONAL MED CTR
+Sentara Careplex Hospital,VA,BDC,25,Sentara Careplex Hospital | 3000 Coliseum Dr | Hampton | VA | 23666-5963 | BDC | No | Hospital,SENTARA CAREPLEX HOSPITAL
+Sentara Obici Hospital,VA,BDC,25,Sentara Obici Hospital | 2800 Godwin Blvd | Suffolk | VA | 23434-8038 | BDC | No | Hospital,SENTARA OBICI HOSPITAL
+Sentara Princess Anne Hospital,VA,BDC+,26,Sentara Princess Anne Hospital | 2025 Glenn Mitchell Dr | Virginia Beach | VA | 23456-0178 | BDC+ | No | Hospital,SENTARA PRINCESS ANNE HOSPITAL
+Sentara Rmh Medical Center,VA,BDC,26,Sentara Rmh Medical Center | 2010 Health Campus Dr | Harrisonburg | VA | 22801-8679 | BDC | No | Hospital,SENTARA RMH MED CTR
+RUTLAND REGIONAL MEDICAL CENTER,VT,BDC,26,RUTLAND REGIONAL MEDICAL CENTER | 160 Allen St | Rutland | VT | 05701-0000 | BDC | No | Hospital,RUTLAND REGIONAL MED CTR
+Harborview Medical Center,WA,BDC,26,Harborview Medical Center | 325 9th Ave | Seattle | WA | 98104-2420 | BDC | Yes | Hospital,HARBORVIEW MED CTR
+KING COUNTY PUBLIC HOSPITAL,WA,BDC+,26,KING COUNTY PUBLIC HOSPITAL | 12040 NE 128Th St | Kirkland | WA | 98034-3013 | BDC+ | No | Hospital,KING COUNTY PUBLIC HOSPITAL
+LEGACY SALMON CREEK HOSPITAL,WA,BDC,26,LEGACY SALMON CREEK HOSPITAL | 2211 NE 139Th St | Vancouver | WA | 98686-2742 | BDC | No | Hospital,LEGACY SALMON CREEK HOSPITAL
+University of Washington Medical Center,WA,BDC,26,University of Washington Medical Center | 1959 NE Pacific St | Seattle | WA | 98195-0001 | BDC | Yes | Hospital,UNIVERSITY WASHINGTON MED CTR
+University of Washington Medical Center,WA,BDC+,26,University of Washington Medical Center | 1959 NE Pacific St | Seattle | WA | 98195-0001 | BDC+ | Yes | Hospital,UNIVERSITY WASHINGTON MED CTR
+UW MEDICAL CENTER NORTHWEST,WA,BDC,26,UW MEDICAL CENTER NORTHWEST | 1550 N 115Th St | Seattle | WA | 98133-8401 | BDC | Yes | Hospital,UW MED CTR NORTHWEST
+UW MEDICAL CENTER NORTHWEST,WA,BDC+,26,UW MEDICAL CENTER NORTHWEST | 1550 N 115Th St | Seattle | WA | 98133-8401 | BDC+ | No | Hospital,UW MED CTR NORTHWEST
+Valley Medical Center,WA,BDC+,26,Valley Medical Center | 400 S 43Rd St | Renton | WA | 98055-5714 | BDC+ | No | Hospital,VALLEY MED CTR
+Aurora Baycare Medical Center,WI,BDC,26,Aurora Baycare Medical Center | 2845 Greenbrier Rd | Green Bay | WI | 54311-6519 | BDC | No | Hospital,AURORA BAYCARE MED CTR
+Aurora Health Care Metro,WI,BDC,26,Aurora Health Care Metro | 945 N 12th St | Milwaukee | WI | 53233-1305 | BDC | No | Hospital,AURORA HEALTH CARE METRO
+Aurora Medical Center,WI,BDC,26,Aurora Medical Center | 10400 75th St | Kenosha | WI | 53142-7884 | BDC | No | Hospital,AURORA MED CTR
+Aurora Medical Center Grafton,WI,BDC,26,Aurora Medical Center Grafton | 975 Port Washington Rd | Grafton | WI | 53024-9201 | BDC | No | Hospital,AURORA MED CTR GRAFTON
+Aurora Medical Center Oshkosh,WI,BDC+,26,Aurora Medical Center Oshkosh | 855 N Westhaven Dr | Oshkosh | WI | 54904-7668 | BDC+ | No | Hospital,AURORA MED CTR OSHKOSH
+Aurora Medical Center Summit,WI,BDC,26,Aurora Medical Center Summit | 36500 Aurora Dr | Summit | WI | 53066-4899 | BDC | No | Hospital,AURORA MED CTR SUMMIT
+Aurora Medical Center Washington County,WI,BDC,26,Aurora Medical Center Washington County | 1032 E Sumner St | Hartford | WI | 53027-1608 | BDC | No | Hospital,AURORA MED CTR WASHINGTON COUNTY
+Aurora Sheboygan Memorial Medical Center,WI,BDC,26,Aurora Sheboygan Memorial Medical Center | 3400 Union Ave | Sheboygan | WI | 53081-8426 | BDC | No | Hospital,AURORA SHEBOYGAN MEMORIAL MED CTR
+Aurora St Lukes Medical Center,WI,BDC,26,Aurora St Lukes Medical Center | 2900 W Oklahoma Ave | Milwaukee | WI | 53215-4330 | BDC | No | Hospital,AURORA ST LUKES MED CTR
+Aurora West Allis Medical Ctr,WI,BDC,26,Aurora West Allis Medical Ctr | 8901 W Lincoln Ave | West Allis | WI | 53227-2409 | BDC | No | Hospital,AURORA WEST ALLIS MEDICAL CTR
+Community Memorial Hospital,WI,BDC,27,Community Memorial Hospital | W180N8085 Town Hall Rd | Menomonee Falls | WI | 53051-3518 | BDC | No | Hospital,COMMUNITY MEMORIAL HOSPITAL
+Mayo Clinic Health System,WI,BDC,27,Mayo Clinic Health System | 700 West Ave S | La Crosse | WI | 54601-4783 | BDC | No | Hospital,MAYO CLINIC
+Mchs Eau Claire Luther Campus,WI,BDC,27,Mchs Eau Claire Luther Campus | 1221 Whipple St | Eau Claire | WI | 54703-5270 | BDC | No | Hospital,MCHS EAU CLAIRE LUTHER CAMPUS
+Uw Health University Hospital,WI,BDC,27,Uw Health University Hospital | 4602 Eastpark Blvd | Madison | WI | 53718-2002 | BDC | Yes | Hospital,UW HEALTH UNIVERSITY HOSPITAL
+Berkeley Medical Center,WV,BDC+,27,Berkeley Medical Center | 2500 Hospital Drive | Martinsburg | WV | 25401 | BDC+ | No | Hospital,BERKELEY MED CTR
+United Hospital Center,WV,BDC+,27,United Hospital Center | 327 MEDICAL PARK DRIVE | BRIDGEPORT | WV | 26330 | BDC+ | Yes | Hospital,UNITED HOSPITAL CENTER
+West Virginia University Hospitals Inc,WV,BDC,27,West Virginia University Hospitals Inc | 1 Medical Center Drive | Morgantown | WV | 26506 | BDC | Yes | Hospital,WEST VIRGINIA UNIVERSITY HOSPITALS INC
+Wheeling Hospital Inc,WV,BDC+,27,Wheeling Hospital Inc | 1 Medical Park | Wheeling | WV | 26003 | BDC+ | Yes | Hospital,WHEELING HOSPITAL INC
