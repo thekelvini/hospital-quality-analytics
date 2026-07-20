@@ -23,6 +23,7 @@ st.markdown(
       <h1>Hospital Quality and Reimbursement Analytics</h1>
       <p>A decision-support platform that integrates hospital base rates, CMS star ratings,
       and Blue Distinction Spine Surgery designations.</p>
+    <p> Develop by Kelvin Iyenoma | Olukayode Onasoga|Linnet Bariu | Kelvin Wachira.</p>
     </div>
     """,
     unsafe_allow_html=True,
